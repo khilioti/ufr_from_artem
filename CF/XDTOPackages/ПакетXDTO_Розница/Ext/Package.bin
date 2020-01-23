@@ -1,0 +1,109 @@
+﻿<package xmlns="http://v8.1c.ru/8.1/xdto" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" targetNamespace="http://prostor.ua/roznica">
+	<objectType name="ПараметрыПромокода">
+		<property name="ТЧ_АктивНоменклатура" type="xs:anyType" lowerBound="0" upperBound="-1"/>
+		<property name="Код" type="xs:anyType"/>
+		<property name="Наименование" type="xs:anyType"/>
+		<property name="НачалоПериода" type="xs:anyType"/>
+		<property name="КонецПериода" type="xs:anyType"/>
+		<property name="НоминалПромокода" type="xs:anyType"/>
+		<property name="ШК_Использовать" type="xs:anyType"/>
+		<property name="ШК_Промокода" type="xs:anyType"/>
+		<property name="ИгнорСтатусОтоварен" type="xs:anyType"/>
+		<property name="ПромокодыДляПечати_ВыгружатьПоТТ" type="xs:anyType"/>
+		<property name="ПромокодыДляПечати_МаксШтНаТТ" type="xs:anyType"/>
+		<property name="ИгнорАктивНоменклатура" type="xs:anyType"/>
+	</objectType>
+	<objectType name="СписокПараметрыПромокодов" open="true" sequenced="true">
+		<property xmlns:d3p1="http://prostor.ua/roznica" name="ПараметрыПромокода" type="d3p1:ПараметрыПромокода" lowerBound="0" upperBound="-1"/>
+	</objectType>
+	<objectType name="СписокЧековККМ" open="true" sequenced="true">
+		<property xmlns:d3p1="http://prostor.ua/roznica" name="ЧекККМ" type="d3p1:ЧекККМ" lowerBound="0" upperBound="-1"/>
+	</objectType>
+	<objectType name="ТЧ_АктивНоменклатура">
+		<property name="НоменклатураКод" type="xs:anyType"/>
+	</objectType>
+	<objectType name="ТЧ_ДвиженияПС">
+		<property name="СтатусПС" type="xs:anyType"/>
+		<property name="ШК_ПС" type="xs:anyType"/>
+		<property name="НоминалПС" type="xs:anyType"/>
+		<property name="ЭлектронныйПС" type="xs:anyType"/>
+	</objectType>
+	<objectType name="ТЧ_ДвиженияПромокодов">
+		<property name="Промокод" type="xs:anyType"/>
+		<property name="ШК_Промокода" type="xs:anyType"/>
+		<property name="СтатусПромокода" type="xs:anyType"/>
+		<property name="ПараметрыПромокодаКод" type="xs:anyType"/>
+	</objectType>
+	<objectType name="ТЧ_ЖурналСкидок">
+		<property name="НомСтрокиЧекаККМ" type="xs:anyType"/>
+		<property name="НоменклатураКод" type="xs:anyType"/>
+		<property name="Количество" type="xs:anyType"/>
+		<property name="Цена" type="xs:anyType"/>
+		<property name="СкидкаСумма" type="xs:anyType"/>
+		<property name="ТипАкции" type="xs:anyType"/>
+		<property name="НомерАкции" type="xs:anyType"/>
+		<property name="ТоварГрВыдачи" type="xs:anyType"/>
+		<property name="БлокЛистовок_Код" type="xs:anyType"/>
+		<property name="БлокЛистовок_UUID_ИзУТ" type="xs:anyType"/>
+		<property name="ИДАкцииBPM" type="xs:anyType"/>
+	</objectType>
+	<objectType name="ТЧ_СобытияПоЧеку">
+		<property name="ДатаСобытия" type="xs:anyType"/>
+		<property name="ВидСобытия" type="xs:anyType"/>
+	</objectType>
+	<objectType name="ТЧ_Товары">
+		<property name="ВидОперации" type="xs:anyType"/>
+		<property name="НоменклатураКод" type="xs:anyType"/>
+		<property name="Количество" type="xs:anyType"/>
+		<property name="Цена" type="xs:anyType"/>
+		<property name="Сумма" type="xs:anyType"/>
+		<property name="СкидкаСумма" type="xs:anyType"/>
+		<property name="СкидкаБК" type="xs:anyType"/>
+		<property name="Ответственный" type="xs:anyType"/>
+		<property name="Возврат_НомерСтроки" type="xs:anyType"/>
+		<property name="Акционный" type="xs:anyType"/>
+	</objectType>
+	<objectType name="ЧекККМ">
+		<property xmlns:d3p1="http://prostor.ua/roznica" name="ТЧ_Товары" type="d3p1:ТЧ_Товары" lowerBound="0" upperBound="-1"/>
+		<property xmlns:d3p1="http://prostor.ua/roznica" name="ТЧ_ЖурналСкидок" type="d3p1:ТЧ_ЖурналСкидок" lowerBound="0" upperBound="-1"/>
+		<property xmlns:d3p1="http://prostor.ua/roznica" name="ТЧ_ДвиженияПС" type="d3p1:ТЧ_ДвиженияПС" lowerBound="0" upperBound="-1"/>
+		<property xmlns:d3p1="http://prostor.ua/roznica" name="ТЧ_СобытияПоЧеку" type="d3p1:ТЧ_СобытияПоЧеку" lowerBound="0" upperBound="-1"/>
+		<property xmlns:d3p1="http://prostor.ua/roznica" name="ТЧ_ДвиженияПромокодов" type="d3p1:ТЧ_ДвиженияПромокодов" lowerBound="0" upperBound="-1"/>
+		<property name="Дата" type="xs:anyType"/>
+		<property name="ПодразделениеКод" type="xs:anyType"/>
+		<property name="СерийныйНомерФР" type="xs:anyType"/>
+		<property name="СостояниеЧекаККМ" type="xs:anyType"/>
+		<property name="Кассир" type="xs:anyType"/>
+		<property name="ВидОперацииЧекаККМ" type="xs:anyType"/>
+		<property name="НомерЧекаККМ" type="xs:anyType"/>
+		<property name="НомерЧекаККМ_ТекущейСмены" type="xs:anyType"/>
+		<property name="НомерZОтчета" type="xs:anyType"/>
+		<property name="СуммаПоЧекуККМ" type="xs:anyType"/>
+		<property name="СуммаОплаты_Нал" type="xs:anyType"/>
+		<property name="СуммаОплаты_БезНал" type="xs:anyType"/>
+		<property name="СуммаОплаты_ПС" type="xs:anyType"/>
+		<property name="СуммаОплаты_Ваучер" type="xs:anyType"/>
+		<property name="POSтерминал_RRN" type="xs:anyType"/>
+		<property name="POSтерминал_НомерКарты" type="xs:anyType"/>
+		<property name="POSтерминал_КодАвторизации" type="xs:anyType"/>
+		<property name="POSтерминал_ТранзакцияВыполнена" type="xs:anyType"/>
+		<property name="BPMonline_СостояниеЧекаККМ" type="xs:anyType"/>
+		<property name="BPMonline_ШК" type="xs:anyType"/>
+		<property name="BPMonline_СтатусКарты" type="xs:anyType"/>
+		<property name="BPMonline_ТипКарты" type="xs:anyType"/>
+		<property name="BPMonline_ДатаЗакрытия" type="xs:anyType"/>
+		<property name="BPMonline_ИмяВладельца" type="xs:anyType"/>
+		<property name="UUID_ЧекаККМ_ИзРозница" type="xs:anyType"/>
+		<property name="UUID_ЧекаККМ_ИзУФР" type="xs:anyType"/>
+		<property name="FISHKA_СостояниеЧекаККМ" type="xs:anyType"/>
+		<property name="FISHKA_ШК" type="xs:anyType"/>
+		<property name="FISHKA_trnNoPOSFZS" type="xs:anyType"/>
+		<property name="FISHKA_originalTrnNoPOSFZS" type="xs:anyType"/>
+		<property name="Общ_Промокод" type="xs:anyType"/>
+		<property name="Возврат_ДатаОперации" type="xs:anyType"/>
+		<property name="Возврат_СерийныйНомерФР" type="xs:anyType"/>
+		<property name="Возврат_НомерЧекаККМ" type="xs:anyType"/>
+		<property name="Возврат_КодТТ" type="xs:anyType"/>
+		<property name="BPMonline_PreprocessingId" type="xs:anyType"/>
+	</objectType>
+</package>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+	<DataProcessor uuid="cb1c2730-ca2a-4f7b-9b00-df1953bd6d20">
+		<InternalInfo>
+			<xr:GeneratedType name="DataProcessorObject.ТО_POSтерминал_ПУМБ" category="Object">
+				<xr:TypeId>e411db2a-2b03-40f0-8399-413c80d2f5a0</xr:TypeId>
+				<xr:ValueId>a4f51c9a-0b9a-477c-8966-9c5d82cbe04a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DataProcessorManager.ТО_POSтерминал_ПУМБ" category="Manager">
+				<xr:TypeId>fc1e0ff9-9330-429a-a89b-e738d44a948c</xr:TypeId>
+				<xr:ValueId>f06a1036-6679-451f-a0f0-0729087c6d78</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ТО_POSтерминал_ПУМБ</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>ТО_POSтерминал_ПУМБ</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<DefaultForm/>
+			<AuxiliaryForm/>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<ExtendedPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects>
+			<Template>Драйвер1</Template>
+			<Template>Драйвер2</Template>
+			<Template>Драйвер3</Template>
+			<Template>Драйвер4</Template>
+		</ChildObjects>
+	</DataProcessor>
+</MetaDataObject>

@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+	<Enum uuid="2c6e1875-9be5-41e3-ad0e-b78090af4e9c">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ВидДействияРМК" category="Ref">
+				<xr:TypeId>481b28b7-8c3f-4a70-98c0-c55e7e34b430</xr:TypeId>
+				<xr:ValueId>4c0dedb0-f9dc-44eb-bc16-1a3750d07aa5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ВидДействияРМК" category="Manager">
+				<xr:TypeId>b6324d8c-d589-488e-ab85-b0709b2f3a27</xr:TypeId>
+				<xr:ValueId>393b7247-3785-4497-8816-4c01fa65e83c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ВидДействияРМК" category="List">
+				<xr:TypeId>43d5bccd-cf4a-4042-8c4c-55df984690d9</xr:TypeId>
+				<xr:ValueId>be53fca1-6de8-42f1-8710-0c7d2438956a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВидДействияРМК</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Вид действия РМК</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="c84ea72b-93ad-4dc4-9be3-941a7884c079">
+				<Properties>
+					<Name>Print_Х</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Print_Х</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="b2db96bb-c407-4a02-819e-e37645ce63ae">
+				<Properties>
+					<Name>Print_Z</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Print_Z</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="9c417441-7199-4fef-9e35-8c04ea9f45f5">
+				<Properties>
+					<Name>Run</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Run</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="8c541546-d934-4d74-93dd-026638e0b6f4">
+				<Properties>
+					<Name>Run_error</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Run_error</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="17249575-bb2e-4bcb-b7a3-1342497ce4f9">
+				<Properties>
+					<Name>Run_fatal_ВосстановитьЧек</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Run_fatal_ВосстановитьЧек</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="d6d6bb0a-7717-4fe0-9a6b-b4c72ee3d776">
+				<Properties>
+					<Name>ЧекАнуляции</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>ЧекАнуляции</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="7fb7528c-4253-47d5-8888-abf027dbfb08">
+				<Properties>
+					<Name>ЧекВозврата</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>ЧекВозврата</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="c45f6c89-fcdd-44fc-92c5-2ff041956599">
+				<Properties>
+					<Name>ЧекПродажи</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>ЧекПродажи</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="485810ea-bd33-4db1-bd19-b300c880b520">
+				<Properties>
+					<Name>Run_error_ЧекПродажиПробитПоФР</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Run_error_ЧекПродажиПробитПоФР</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="3f019d4a-44f9-479a-bef6-a18b7e944d08">
+				<Properties>
+					<Name>Run_error_ЧекПродажиНеПробитПоФР</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Run_error_ЧекПродажиНеПробитПоФР</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="8eb663f8-8f71-4dfb-8bac-6a6e0394cd5b">
+				<Properties>
+					<Name>Run_error_ЧекПродажиЧастичноПробитПоФР</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Run_error_ЧекПродажиЧастичноПробитПоФР</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="1421dee6-bdb9-4251-87fa-7c6a7c13c9cd">
+				<Properties>
+					<Name>Чек</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Чек</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="80b40292-3f5d-4e37-bfdf-907306c69747">
+				<Properties>
+					<Name>Run_error_ЧекВозвратаПробитПоФР</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Run_error_ЧекВозвратаПробитПоФР</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="cad380dc-0f0d-42a4-8409-bf614fb0e932">
+				<Properties>
+					<Name>Run_error_ЧекВозвратаНеПробитПоФР</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Run_error_ЧекВозвратаНеПробитПоФР</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="a90f4ecf-595c-4724-819f-cdae96ae0960">
+				<Properties>
+					<Name>Run_error_ЧекВозвратаЧастичноПробитПоФР</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Run_error_ЧекВозвратаЧастичноПробитПоФР</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

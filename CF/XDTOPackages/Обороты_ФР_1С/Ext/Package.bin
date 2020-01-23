@@ -1,0 +1,121 @@
+﻿<package xmlns="http://v8.1c.ru/8.1/xdto" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" targetNamespace="http://www.sample-package.org">
+	<objectType name="XDTO_CтрокаРС">
+		<property name="Кассир" type="xs:string"/>
+		<property name="Ответственный" type="xs:string"/>
+		<property name="Период" type="xs:dateTime"/>
+		<property name="ПО_ОборотиВозвратов_А" type="xs:decimal"/>
+		<property name="ПО_ОборотиВозвратов_Б" type="xs:decimal"/>
+		<property name="ПО_ОборотиВозвратов_В" type="xs:decimal"/>
+		<property name="ПО_ОборотиПродаж_А" type="xs:decimal"/>
+		<property name="ПО_ОборотиПродаж_Б" type="xs:decimal"/>
+		<property name="ПО_ОборотиПродаж_В" type="xs:decimal"/>
+		<property name="ПО_КолЧековВозврата" type="xs:integer"/>
+		<property name="ПО_КолЧековПродаж" type="xs:integer"/>
+		<property name="ПО_ОборотиВозвратов_Картка" type="xs:decimal"/>
+		<property name="ПО_ОборотиВозвратов_Наличные" type="xs:decimal"/>
+		<property name="ПО_ОборотиВозвратов_СуммаСкидки" type="xs:decimal"/>
+		<property name="ПО_ОборотиПродаж_Картка" type="xs:decimal"/>
+		<property name="ПО_ОборотиПродаж_Наличные" type="xs:decimal"/>
+		<property name="ФР_ОборотиВозвратов_А" type="xs:decimal"/>
+		<property name="ФР_ОборотиВозвратов_Б" type="xs:decimal"/>
+		<property name="ФР_ОборотиВозвратов_В" type="xs:decimal"/>
+		<property name="ФР_ОборотиПродаж_А" type="xs:decimal"/>
+		<property name="ФР_ОборотиПродаж_Б" type="xs:decimal"/>
+		<property name="ФР_ОборотиПродаж_В" type="xs:decimal"/>
+		<property name="ФР_КолЧековВозврата" type="xs:integer"/>
+		<property name="ФР_КолЧековПродаж" type="xs:integer"/>
+		<property name="ФР_ОборотиВозвратов_Картка" type="xs:decimal"/>
+		<property name="ФР_ОборотиВозвратов_Наличные" type="xs:decimal"/>
+		<property name="ФР_ОборотиВозвратов_СуммаСкидки" type="xs:decimal"/>
+		<property name="ФР_ОборотиПродаж_Картка" type="xs:decimal"/>
+		<property name="ФР_ОборотиПродаж_Наличные" type="xs:decimal"/>
+		<property name="ФР_ОборотиПродаж_СуммаСкидки" type="xs:decimal"/>
+		<property name="ПО_ОборотиПродаж_СуммаСкидки" type="xs:decimal"/>
+		<property name="ПО_СлужебноеВнесение" type="xs:decimal"/>
+		<property name="ПО_СлужебноеИзьятие" type="xs:decimal"/>
+		<property name="ФР_СлужебноеВнесение" type="xs:decimal"/>
+		<property name="ФР_СлужебноеИзьятие" type="xs:decimal"/>
+		<property name="ВидДействияРМК" type="xs:string"/>
+		<property name="НомерМагазина" type="xs:string"/>
+		<property name="СерийныйНомерФР" type="xs:string"/>
+		<property name="НомерЧека" type="xs:string"/>
+		<property name="НомерZОтчета" type="xs:string"/>
+		<property name="НомСтроки" type="xs:long"/>
+		<property name="СуммаЧека" type="xs:decimal"/>
+		<property name="ФР_ОборотиПродаж" type="xs:decimal"/>
+		<property name="ФР_ОборотиВозвратов" type="xs:decimal"/>
+		<property name="ПО_ОборотиПродаж" type="xs:decimal"/>
+		<property name="ПО_ОборотиВозвратов" type="xs:decimal"/>
+		<property name="ФР_СуммаВыручки_Нал" type="xs:decimal"/>
+		<property name="ФР_СуммаВыручки_БезНал" type="xs:decimal"/>
+		<property name="ПО_СуммаВыручки_Нал" type="xs:decimal"/>
+		<property name="ПО_СуммаВыручки_БезНал" type="xs:decimal"/>
+	</objectType>
+	<objectType name="СоставнойТип">
+		<property xmlns:d3p1="http://www.sample-package.org" name="СтрокаСоставнойТип" type="d3p1:XDTO_CтрокаРС" lowerBound="0" upperBound="-1"/>
+	</objectType>
+	<objectType name="XDTO_СтрокаРС_ЖурналЧековРРО">
+		<property name="Период" type="xs:date"/>
+		<property name="НомерМагазина" type="xs:string"/>
+		<property name="СерийныйНомерФР" type="xs:string"/>
+		<property name="НомерЧека" type="xs:integer"/>
+		<property name="НомерСтрокиЧека" type="xs:integer"/>
+		<property name="СостояниеЧека" type="xs:string"/>
+		<property name="СостояниеBPMonline" type="xs:string"/>
+		<property name="Ануляция" type="xs:boolean"/>
+		<property name="ВидОперации" type="xs:string"/>
+		<property name="ВидОплаты" type="xs:string"/>
+		<property name="Код" type="xs:string"/>
+		<property name="Штрихкод" type="xs:string"/>
+		<property name="Количество" type="xs:integer"/>
+		<property name="Цена" type="xs:decimal"/>
+		<property name="Сумма" type="xs:decimal"/>
+		<property name="СкидкаСумма" type="xs:decimal" form="Attribute"/>
+		<property name="СкидкаПС" type="xs:decimal" form="Attribute"/>
+		<property name="СкидкаБК" type="xs:decimal" form="Attribute"/>
+		<property name="СуммаПоЧеку" type="xs:decimal"/>
+		<property name="СуммаНДС" type="xs:decimal"/>
+		<property name="СтавкаНДС" type="xs:string"/>
+		<property name="ДатаОперации" type="xs:dateTime"/>
+		<property name="НомерZОтчета" type="xs:integer"/>
+		<property name="ШК_КВ" type="xs:string" form="Attribute"/>
+		<property name="ШК_ПС" type="xs:string" form="Attribute"/>
+		<property name="ШК_БК" type="xs:string" form="Attribute"/>
+		<property name="ШК_ДКО" type="xs:string" form="Attribute"/>
+		<property name="ШК_ДКД" type="xs:string" form="Attribute"/>
+		<property name="Кассир" type="xs:string"/>
+		<property name="Ответственный" type="xs:string"/>
+	</objectType>
+	<objectType name="СоставнойТип_ЖурналЧековРРО">
+		<property xmlns:d3p1="http://www.sample-package.org" name="СтрокаСоставнойТип" type="d3p1:XDTO_СтрокаРС_ЖурналЧековРРО" lowerBound="0" upperBound="-1"/>
+	</objectType>
+	<objectType name="XDTO_UFR_СтрокаРС_ДвижениеПС">
+		<property name="Период" type="xs:dateTime"/>
+		<property name="НомерМагазина"/>
+		<property name="СерийныйНомерФР" type="xs:string"/>
+		<property name="НомерЧека" type="xs:integer"/>
+		<property name="ШК_ПС" type="xs:string"/>
+		<property name="СтатусПС" type="xs:string"/>
+		<property name="НоминалПС" type="xs:decimal" form="Attribute"/>
+	</objectType>
+	<objectType name="СоставнойТип_UFR_ДвижениеПС">
+		<property xmlns:d3p1="http://www.sample-package.org" name="СтрокаСоставнойТип" type="d3p1:XDTO_UFR_СтрокаРС_ДвижениеПС" lowerBound="0" upperBound="-1"/>
+	</objectType>
+	<objectType name="XDTO_СтрокаРС_ЖурналАкцийПоЧекамРРО">
+		<property name="Период" type="xs:dateTime"/>
+		<property name="СерийныйНомерФР" type="xs:string"/>
+		<property name="НомерЧека" type="xs:integer"/>
+		<property name="ТипАкции" type="xs:string"/>
+		<property name="НомерАкции" type="xs:integer"/>
+		<property name="СтатусАкции" type="xs:string"/>
+		<property name="ШК" type="xs:string"/>
+		<property name="КоличествоПримАкций" type="xs:integer"/>
+		<property name="СуммаСкидкиПримАкций" type="xs:decimal"/>
+		<property name="СуммаЧека" type="xs:decimal"/>
+		<property name="СуммаЧекаБезСкидки" type="xs:decimal" form="Attribute"/>
+		<property name="НаименованиеАкции" type="xs:string"/>
+	</objectType>
+	<objectType name="СоставнойТип_ЖурналАкцийПоЧекамРРО">
+		<property xmlns:d3p1="http://www.sample-package.org" name="СтрокаСоставнойТип" type="d3p1:XDTO_СтрокаРС_ЖурналАкцийПоЧекамРРО" lowerBound="0" upperBound="-1"/>
+	</objectType>
+</package>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+	<DataProcessor uuid="e4a0399c-266f-4888-be43-985699113cbd">
+		<InternalInfo>
+			<xr:GeneratedType name="DataProcessorObject.ТО_Datecs_FP_3530T" category="Object">
+				<xr:TypeId>f1b93030-4202-4e8f-a190-1f7c78bede9d</xr:TypeId>
+				<xr:ValueId>cbb89e4d-6315-4691-ba31-1c58be208add</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DataProcessorManager.ТО_Datecs_FP_3530T" category="Manager">
+				<xr:TypeId>a9bd95e9-8877-425d-967a-7e1a082dd5b9</xr:TypeId>
+				<xr:ValueId>02aa50f9-65af-47a4-b254-8e59e69c2fb0</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ТО_Datecs_FP_3530T</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Т о datecs f p 3530 T</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<DefaultForm/>
+			<AuxiliaryForm/>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<ExtendedPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects>
+			<Template>Драйвер0</Template>
+			<Template>Драйвер10</Template>
+			<Template>Драйвер20</Template>
+			<Template>Драйвер30</Template>
+			<Template>Драйвер40</Template>
+			<Template>Драйвер50</Template>
+			<Template>Драйвер60</Template>
+			<Template>Драйвер70</Template>
+			<Template>Драйвер80</Template>
+			<Template>Драйвер90</Template>
+			<Template>Драйвер100</Template>
+			<Template>Драйвер110</Template>
+			<Template>Драйвер120</Template>
+			<Template>Драйвер130</Template>
+			<Template>Драйвер140</Template>
+			<Template>Драйвер150</Template>
+			<Template>Драйвер160</Template>
+			<Template>Драйвер170</Template>
+			<Template>Драйвер180</Template>
+		</ChildObjects>
+	</DataProcessor>
+</MetaDataObject>

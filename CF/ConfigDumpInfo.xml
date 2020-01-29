@@ -106,8 +106,8 @@
 		<Metadata name="CommonModule.МеханизмыСкидокИАкций.Module" id="e63c0b2d-4235-447b-9d39-d00bfada2a90.0" configVersion="5d35b3a7ff1f2d418fdf7ffdb43183c600000000"/>
 		<Metadata name="CommonModule.МодульTRASSIR" id="4ce56705-e0eb-4663-bef6-6570263bbb27" configVersion="6a39c6c785c97645a0401de9c6f48bec00000000"/>
 		<Metadata name="CommonModule.МодульTRASSIR.Module" id="4ce56705-e0eb-4663-bef6-6570263bbb27.0" configVersion="3aed998693ec4646af9251583bcbe18000000000"/>
-		<Metadata name="CommonModule.ОбновлениеБД" id="678d6826-357b-4921-8bf9-d3630a57314e" configVersion="a332b2b1cd3915438b686bd73bc2f8f600000000"/>
-		<Metadata name="CommonModule.ОбновлениеБД.Module" id="678d6826-357b-4921-8bf9-d3630a57314e.0" configVersion="2abbc7ccb194a444be4acecd37f1762700000000"/>
+		<Metadata name="CommonModule.ОбновлениеБД" id="678d6826-357b-4921-8bf9-d3630a57314e" configVersion="98acca679aee3a43ae96f3b572b6843700000000"/>
+		<Metadata name="CommonModule.ОбновлениеБД.Module" id="678d6826-357b-4921-8bf9-d3630a57314e.0" configVersion="ec82f5f7d417ec48a7699e6fb50ef94200000000"/>
 		<Metadata name="CommonModule.ОбработкаТабличныхЧастей" id="eafb6798-2776-42ec-b6e0-40a3c0316952" configVersion="3c34397ace415f48ad8fceb38a7fcb7700000000"/>
 		<Metadata name="CommonModule.ОбработкаТабличныхЧастей.Module" id="eafb6798-2776-42ec-b6e0-40a3c0316952.0" configVersion="3aef61059366aa4296200401e0ba6af500000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначения" id="ee2b6679-e091-4198-ade5-e3419df3a746" configVersion="d7b7fa6bc2ffd640935d72e8b2f2ad3e00000000"/>

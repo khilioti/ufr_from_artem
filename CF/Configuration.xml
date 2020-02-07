@@ -614,6 +614,7 @@
 			<CommonTemplate>Taskkill_shablon</CommonTemplate>
 			<CommonTemplate>FISHKA_СертификатSSL</CommonTemplate>
 			<CommonTemplate>FISHKA_Сертификат_addTrust</CommonTemplate>
+			<CommonTemplate>МакетSalelistДБФ</CommonTemplate>
 			<CommonModule>BPM</CommonModule>
 			<CommonModule>Fishka</CommonModule>
 			<CommonModule>ВебСервисыРТК</CommonModule>

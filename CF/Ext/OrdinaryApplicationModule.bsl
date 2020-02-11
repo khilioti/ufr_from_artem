@@ -462,13 +462,8 @@ SaleListDbf						="\salelist.dbf";
 
 // Настройки для BPMonline (первые по умолчанию)
 Если ПустаяСтрока(Константы.BPMonline_Адрес.Получить()) Тогда 
-	Константы.BPMonline_Адрес.Установить("http://ws.prostor.ua:8081/");
-	Константы.BPMonline_UserName.Установить("Supervisor");
-	Константы.BPMonline_UserPassword.Установить("Supervisor");
-	Константы.BPMonline_Language.Установить("ru");
-	Константы.BPMonline_SolutionName.Установить("TSBpm");
-	Константы.BPMonline_TimeZoneOffset.Установить(0);
-КонецЕсли;
+	Константы.BPMonline_Адрес.Установить("processing.prostor.ua");
+КонецЕсли;	
 
 Если Константы.BPMonline_ReceiveTimeout_Login.Получить()=0 Тогда		Константы.BPMonline_ReceiveTimeout_Login.Установить(5)		КонецЕсли;
 Если Константы.BPMonline_ConnectTimeout_Login.Получить()=0 Тогда		Константы.BPMonline_ConnectTimeout_Login.Установить(5)		КонецЕсли;

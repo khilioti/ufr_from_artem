@@ -279,17 +279,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.BPMonline_SolutionName</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>DataProcessor.ТО_Сканер_ATOL</name>
 		<right>
 			<name>Use</name>
@@ -595,17 +584,6 @@
 		</right>
 		<right>
 			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.BPMonline_Language</name>
-		<right>
-			<name>Read</name>
 			<value>true</value>
 		</right>
 		<right>
@@ -999,17 +977,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.BPMonline_TimeZoneOffset</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.Розница_Сервер</name>
 		<right>
 			<name>Read</name>
@@ -1040,17 +1007,6 @@
 		</right>
 		<right>
 			<name>Edit</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.BPMonline_UserPassword</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>View</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -1291,17 +1247,6 @@
 		<name>DataProcessor.ТО_POSтерминал_ПУМБ</name>
 		<right>
 			<name>Use</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.BPMonline_UserName</name>
-		<right>
-			<name>Read</name>
 			<value>true</value>
 		</right>
 		<right>

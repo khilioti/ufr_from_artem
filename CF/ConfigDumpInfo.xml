@@ -790,31 +790,27 @@
 		<Metadata name="CommonTemplate.Taskkill_shablon.Template" id="6e935257-8a35-4364-a6ec-b7762a77fdad.0" configVersion="5097dc3911ecba45b4629e76844f861000000000"/>
 		<Metadata name="CommonTemplate.МакетSalelistДБФ" id="5d602157-2c36-47a7-a8d9-9b462ea76d45" configVersion="d4919428b619504997683c28c84bed1300000000"/>
 		<Metadata name="CommonTemplate.МакетSalelistДБФ.Template" id="5d602157-2c36-47a7-a8d9-9b462ea76d45.0" configVersion="ea6842422bfdd748bad5101a5886c79600000000"/>
-		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины" id="1e4190e9-76c2-456e-a607-4d817110ffd9" configVersion="98c7db5bbd8231468b3c5aaa0c6b694800000000"/>
+		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины" id="1e4190e9-76c2-456e-a607-4d817110ffd9" configVersion="96f722c47c3c9a43a4a572067d516f7c00000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.ExternalConnectionModule" id="6b021b70-482d-4baf-b590-b86b68d4730e.5" configVersion="1ca98c62337e034f9961390e4ce523ce00000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.Help" id="6b021b70-482d-4baf-b590-b86b68d4730e.3" configVersion="7e8d548864d9014db99609651ee4682900000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.Logo" id="6b021b70-482d-4baf-b590-b86b68d4730e.1" configVersion="33a2292056083e4b8a2fad396ea876af00000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.ManagedApplicationModule" id="6b021b70-482d-4baf-b590-b86b68d4730e.6" configVersion="a2e724b4d106784cbc91ad059f8bd8b300000000"/>
-		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.OrdinaryApplicationModule" id="6b021b70-482d-4baf-b590-b86b68d4730e.0" configVersion="d65e91b53c788747835364f0952989dc00000000"/>
+		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.OrdinaryApplicationModule" id="6b021b70-482d-4baf-b590-b86b68d4730e.0" configVersion="2a186fb109023d44aac89eb71789643400000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.ParentConfigurations" id="6b021b70-482d-4baf-b590-b86b68d4730e.4" configVersion="3afa7a92c5ae7b4ea3fd92a173370e0200000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.SessionModule" id="6b021b70-482d-4baf-b590-b86b68d4730e.7" configVersion="fff1446115bc01418e433f8d913c58e800000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.Splash" id="6b021b70-482d-4baf-b590-b86b68d4730e.2" configVersion="c18ec066f049aa42be9ed26dfccea5d400000000"/>
 		<Metadata name="Constant.BPM_АкцииЧерезBPM" id="091d1158-0c96-4682-8f16-7a770553d6f4" configVersion="3b51028b1e9c374ba4f04e06111ae7a000000000"/>
+		<Metadata name="Constant.BPM_КоличествоПопытокПодключения" id="b7da477d-154d-4c1f-ada6-7e1234277267" configVersion="8e2fac18c608fb448afd8c18d4307e4f00000000"/>
 		<Metadata name="Constant.BPM_ОтправлятьВсеЧеки" id="b14dfeda-7ff3-4a3b-b230-87439d0661da" configVersion="1b143db98b679c4884c27706fa332fdb00000000"/>
 		<Metadata name="Constant.BPM_РегистрацияВПроцессинге" id="3ec25d5d-fcc5-4713-84fd-3d6a29dd0dec" configVersion="8c12318a0cbdfd48af30e5270744082200000000"/>
 		<Metadata name="Constant.BPMonline_ConnectTimeout" id="2fec8a4d-3ff8-4ce4-934b-73165edd75db" configVersion="fd0acaca3f5f9247944fd615d5a0aa3f00000000"/>
 		<Metadata name="Constant.BPMonline_ConnectTimeout_Login" id="5a7e6d0c-f07a-46bf-a70c-dfe665fce6ee" configVersion="c3b45142248f1644a7eb9615056d1d2f00000000"/>
-		<Metadata name="Constant.BPMonline_Language" id="570e9ce0-f9f5-4330-af11-0e7551dd631c" configVersion="89ce532ac9fb4e48adc44cd3733a2a8900000000"/>
 		<Metadata name="Constant.BPMonline_ReceiveTimeout" id="8f6bb484-fc45-407c-818c-a4f545cd29cd" configVersion="cf06eda263a63c4288a4a2ee804b6f4d00000000"/>
 		<Metadata name="Constant.BPMonline_ReceiveTimeout_Login" id="1253eb71-060e-49ae-9456-737cf3dac7ae" configVersion="5d0379f7bbd24947996d3213f78942e400000000"/>
 		<Metadata name="Constant.BPMonline_ResolveTimeout" id="58b24711-ad79-4ae6-8782-e25976bacc2a" configVersion="30d7c2427fd4b747af87b4a2d544abce00000000"/>
 		<Metadata name="Constant.BPMonline_ResolveTimeout_Login" id="f71bb258-7e27-4139-8412-cc39d4c41bd1" configVersion="524a46e576207b438a7082298ff1476400000000"/>
 		<Metadata name="Constant.BPMonline_SendTimeout" id="85a003fe-bebb-4fc5-b56b-f60239ae5a97" configVersion="ab14b1af48720d41b6c2ab50cb9bcd8900000000"/>
 		<Metadata name="Constant.BPMonline_SendTimeout_Login" id="884b5b85-5f14-4a8c-8f9c-afcb980af07c" configVersion="56b2b47709084a41add0e2068a27de5c00000000"/>
-		<Metadata name="Constant.BPMonline_SolutionName" id="21e8e8bc-69ee-4715-9dc0-7f362666c9cf" configVersion="4ab82d847819064e9c4737e22b962da800000000"/>
-		<Metadata name="Constant.BPMonline_TimeZoneOffset" id="8b4074f0-31da-4352-a2d3-a213e7216bb4" configVersion="d4f4a4154c6d8a40858712ae04fcef6d00000000"/>
-		<Metadata name="Constant.BPMonline_UserName" id="ce6e3693-9dae-444d-89e5-213dcf3c2c4a" configVersion="1d5b20861962dc4098accba686826d0f00000000"/>
-		<Metadata name="Constant.BPMonline_UserPassword" id="99c4bb00-99b7-4c2c-9b18-0901dbbe7504" configVersion="c243b3ebb22f6440a67914ee7a124bc400000000"/>
 		<Metadata name="Constant.BPMonline_Version" id="db2418eb-4cf6-471f-99ba-5dd77f771b7c" configVersion="c5bed4ba2f062848b9cdc1bb781f4caa00000000"/>
 		<Metadata name="Constant.BPMonline_Адрес" id="3b131e6e-8d67-46f4-8112-1795edd7c64f" configVersion="f0e94a3543f6d54aa417fb332f728fc300000000"/>
 		<Metadata name="Constant.BPMonline_НеИспользовать" id="8b17e03c-15b7-40df-bf39-8e0f59732a3c" configVersion="1a6cfdfdda6ce944bdffb6193041083e00000000"/>
@@ -855,6 +851,8 @@
 		<Metadata name="Constant.ТаймаутБлокировкиОткрытогоЧека" id="3bf41345-3655-4ac3-8e25-4e9ab7db6619" configVersion="cac4a54f37d90d40960be0a06f8a108000000000"/>
 		<Metadata name="Constant.ТекстРекламаДляЧека" id="4ddb518b-ad8d-448e-9c1a-db0ccd6882e6" configVersion="b2c9f526f22b464c9df9f1e293c9803000000000"/>
 		<Metadata name="Constant.ТестоваяКасса" id="db68f849-48c4-4025-a8b0-cc9c2965ce8b" configVersion="e0b5f153501a044394ab4bdbe3ec0e5200000000"/>
+		<Metadata name="Constant.ФР_ПаузаПослеZОтчета" id="218e9768-478b-402f-93c9-b18ec387f31f" configVersion="10fdc820faf42c4f8616373e53f6404600000000"/>
+		<Metadata name="Constant.ФР_СниматьКопиюZОтчета" id="a23caa46-e48b-47fd-b90b-4f89fae1cf0c" configVersion="77739ff8773e96448896f1c07b5ad9b600000000"/>
 		<Metadata name="Constant.ШК_Ануляции" id="766667b0-b560-4944-962d-6df0c96288d6" configVersion="0be76d82c2abdb4b9596fb23be4e06fe00000000"/>
 		<Metadata name="Constant.ШК_Возврата" id="d5353bd4-b9fc-46ba-add0-e5df64584493" configVersion="3aeece3f8a7bb142b20ab9591cda753700000000"/>
 		<Metadata name="Constant.глСчетчикЧеков" id="c50cc637-907e-4663-a700-18163d3682f5" configVersion="2f37dd262c0fba4cb75198402c8ab8a400000000"/>

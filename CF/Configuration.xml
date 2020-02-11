@@ -637,21 +637,17 @@
 			<XDTOPackage>Обороты_ФР_1С</XDTOPackage>
 			<XDTOPackage>ПакетXDTO_Розница</XDTOPackage>
 			<Constant>BPM_АкцииЧерезBPM</Constant>
+			<Constant>BPM_КоличествоПопытокПодключения</Constant>
 			<Constant>BPM_ОтправлятьВсеЧеки</Constant>
 			<Constant>BPM_РегистрацияВПроцессинге</Constant>
 			<Constant>BPMonline_ConnectTimeout</Constant>
 			<Constant>BPMonline_ConnectTimeout_Login</Constant>
-			<Constant>BPMonline_Language</Constant>
 			<Constant>BPMonline_ReceiveTimeout</Constant>
 			<Constant>BPMonline_ReceiveTimeout_Login</Constant>
 			<Constant>BPMonline_ResolveTimeout</Constant>
 			<Constant>BPMonline_ResolveTimeout_Login</Constant>
 			<Constant>BPMonline_SendTimeout</Constant>
 			<Constant>BPMonline_SendTimeout_Login</Constant>
-			<Constant>BPMonline_SolutionName</Constant>
-			<Constant>BPMonline_TimeZoneOffset</Constant>
-			<Constant>BPMonline_UserName</Constant>
-			<Constant>BPMonline_UserPassword</Constant>
 			<Constant>BPMonline_Version</Constant>
 			<Constant>BPMonline_Адрес</Constant>
 			<Constant>BPMonline_НеИспользовать</Constant>
@@ -695,6 +691,8 @@
 			<Constant>ТО_Сканер_Четность</Constant>
 			<Constant>ТО_Сканер_Чувствительность</Constant>
 			<Constant>ТО_СоростьПодключения</Constant>
+			<Constant>ФР_ПаузаПослеZОтчета</Constant>
+			<Constant>ФР_СниматьКопиюZОтчета</Constant>
 			<Constant>ШК_Ануляции</Constant>
 			<Constant>ШК_Возврата</Constant>
 			<CommonForm>АвторизацияПользователя</CommonForm>

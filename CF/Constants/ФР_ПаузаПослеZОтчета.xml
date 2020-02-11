@@ -1,38 +1,39 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
-	<Constant uuid="570e9ce0-f9f5-4330-af11-0e7551dd631c">
+	<Constant uuid="218e9768-478b-402f-93c9-b18ec387f31f">
 		<InternalInfo>
-			<xr:GeneratedType name="ConstantManager.BPMonline_Language" category="Manager">
-				<xr:TypeId>845c1521-2d82-4760-b602-c84fc2282bb3</xr:TypeId>
-				<xr:ValueId>cad7df21-d98d-414e-aabd-527fd40015cd</xr:ValueId>
+			<xr:GeneratedType name="ConstantManager.ФР_ПаузаПослеZОтчета" category="Manager">
+				<xr:TypeId>2bc9f660-5743-486b-b7cb-4bdd094a7b1d</xr:TypeId>
+				<xr:ValueId>fed35791-b18d-4d78-8e5e-df62a53148ca</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="ConstantValueManager.BPMonline_Language" category="ValueManager">
-				<xr:TypeId>4669ff56-db8e-45c3-874c-8ea91506a5de</xr:TypeId>
-				<xr:ValueId>276fd741-4513-4b94-98d8-f5bb79cd5a9c</xr:ValueId>
+			<xr:GeneratedType name="ConstantValueManager.ФР_ПаузаПослеZОтчета" category="ValueManager">
+				<xr:TypeId>1050162e-b14e-4cff-b644-ed6cf06ac54c</xr:TypeId>
+				<xr:ValueId>8da7c90c-4103-457b-89ec-89448497bfc8</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="ConstantValueKey.BPMonline_Language" category="ValueKey">
-				<xr:TypeId>6a134f7a-4e4b-5c83-b6c5-4ed52839605a</xr:TypeId>
-				<xr:ValueId>c25464fd-df06-5b6b-bb93-5465c5d03ade</xr:ValueId>
+			<xr:GeneratedType name="ConstantValueKey.ФР_ПаузаПослеZОтчета" category="ValueKey">
+				<xr:TypeId>afea5dec-777f-5152-8b75-6194e7b07bd9</xr:TypeId>
+				<xr:ValueId>ab92cb0f-9237-571f-b7f0-f63e37a9cff0</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>BPMonline_Language</Name>
+			<Name>ФР_ПаузаПослеZОтчета</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>BPMonline language</v8:content>
+					<v8:content>ФР Пауза после Z-отчета, сек</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment/>
+			<Comment>Для Мини-ФП82 пауза после Z-отчета, сек для снятия данных с КСЕФ</Comment>
 			<Type>
-				<v8:Type>xs:string</v8:Type>
-				<v8:StringQualifiers>
-					<v8:Length>50</v8:Length>
-					<v8:AllowedLength>Variable</v8:AllowedLength>
-				</v8:StringQualifiers>
+				<v8:Type>xs:decimal</v8:Type>
+				<v8:NumberQualifiers>
+					<v8:Digits>10</v8:Digits>
+					<v8:FractionDigits>0</v8:FractionDigits>
+					<v8:AllowedSign>Any</v8:AllowedSign>
+				</v8:NumberQualifiers>
 			</Type>
 			<UseStandardCommands>false</UseStandardCommands>
-			<DefaultForm/>
+			<DefaultForm>CommonForm.ФормаКонстантФискальногоРегистратора</DefaultForm>
 			<ExtendedPresentation/>
 			<Explanation/>
 			<PasswordMode>false</PasswordMode>

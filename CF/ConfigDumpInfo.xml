@@ -1085,8 +1085,8 @@
 		<Metadata name="DataProcessor.ТО_IKC_E810T.ObjectModule" id="e4feacde-a741-4d46-b0f8-68e8824c7f7f.0" configVersion="079e1b6caa7893438ac7e1cee1ad6fa900000000"/>
 		<Metadata name="DataProcessor.ТО_IKC_E810T.Template.Драйвер" id="d054ff18-4e82-4443-aa01-499657f94e94" configVersion="216213b22037b847847723123ec6ba5500000000"/>
 		<Metadata name="DataProcessor.ТО_IKC_E810T.Template.Драйвер.Template" id="d054ff18-4e82-4443-aa01-499657f94e94.0" configVersion="0785bd2c3eb0514aa0a0aaa5699e052a00000000"/>
-		<Metadata name="DataProcessor.ТО_MINI_FP82" id="7f71f458-c5fe-45bf-91ad-fca2f210a8ee" configVersion="5bb152954fbf2e409cea3e6a605dd01600000000"/>
-		<Metadata name="DataProcessor.ТО_MINI_FP82.ObjectModule" id="7f71f458-c5fe-45bf-91ad-fca2f210a8ee.0" configVersion="0d6e48fcd11b434885d4359ad04255b500000000"/>
+		<Metadata name="DataProcessor.ТО_MINI_FP82" id="7f71f458-c5fe-45bf-91ad-fca2f210a8ee" configVersion="2f644242d112a7428e4a524aa783ecd900000000"/>
+		<Metadata name="DataProcessor.ТО_MINI_FP82.ObjectModule" id="7f71f458-c5fe-45bf-91ad-fca2f210a8ee.0" configVersion="2b4ebcf313c6fa4d96445cc1d7b7d83700000000"/>
 		<Metadata name="DataProcessor.ТО_MINI_FP82.Template.Драйвер_1_0" id="c6546441-b815-434c-baeb-440f5ddd1107" configVersion="b10f03f1ebd02d48ae79ca4ad454d0a200000000"/>
 		<Metadata name="DataProcessor.ТО_MINI_FP82.Template.Драйвер_1_0.Template" id="c6546441-b815-434c-baeb-440f5ddd1107.0" configVersion="83b4eb9d5f1f9941bedf6620f482338600000000"/>
 		<Metadata name="DataProcessor.ТО_MINI_FP82.Template.Драйвер_1_1" id="dc727c0d-d81b-4a1c-9247-59396f1c2036" configVersion="2804ded9235abb45891dec411339910200000000"/>

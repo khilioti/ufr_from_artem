@@ -1069,8 +1069,8 @@
 		<Metadata name="DataProcessor.ТО_Datecs_FP_3530T.Template.Драйвер80.Template" id="384834ee-2e1d-4652-8cc0-464f61e04c10.0" configVersion="f0690d78ee078645b80d29e926c5aa6f00000000"/>
 		<Metadata name="DataProcessor.ТО_Datecs_FP_3530T.Template.Драйвер90" id="3af3c09a-e1e8-4d2e-8994-5d96634769f2" configVersion="32d91b67973c914fb4082846ce26240700000000"/>
 		<Metadata name="DataProcessor.ТО_Datecs_FP_3530T.Template.Драйвер90.Template" id="3af3c09a-e1e8-4d2e-8994-5d96634769f2.0" configVersion="dfb045d4e2bd3242b8929d3fa1dcb5e300000000"/>
-		<Metadata name="DataProcessor.ТО_Datecs_OPOS" id="ad19cec6-7fff-4102-adc4-2ee9adcda9db" configVersion="0976f03dca77d643be22bce0e16a3d1100000000"/>
-		<Metadata name="DataProcessor.ТО_Datecs_OPOS.ObjectModule" id="ad19cec6-7fff-4102-adc4-2ee9adcda9db.0" configVersion="8db35ca147150943ae12b4312493a80600000000"/>
+		<Metadata name="DataProcessor.ТО_Datecs_OPOS" id="ad19cec6-7fff-4102-adc4-2ee9adcda9db" configVersion="7df4d73e23afbb42a1478f813673372e00000000"/>
+		<Metadata name="DataProcessor.ТО_Datecs_OPOS.ObjectModule" id="ad19cec6-7fff-4102-adc4-2ee9adcda9db.0" configVersion="7f0524c2089dea46bd5626c5db28079600000000"/>
 		<Metadata name="DataProcessor.ТО_Datecs_OPOS.Template.Драйвер1" id="5c8376d6-9396-4c69-9a15-5693522e619d" configVersion="a603e2252d86d34fab49de406623b19700000000"/>
 		<Metadata name="DataProcessor.ТО_Datecs_OPOS.Template.Драйвер1.Template" id="5c8376d6-9396-4c69-9a15-5693522e619d.0" configVersion="b5a17ce1db5cb94cb53ef96193a7e6cb00000000"/>
 		<Metadata name="DataProcessor.ТО_Datecs_OPOS.Template.Драйвер2" id="006b5a27-353e-4ef8-b84b-f6b9704837bd" configVersion="ea0eab8397432a45858c82e28361231800000000"/>

@@ -357,6 +357,21 @@
 		</right>
 	</object>
 	<object>
+		<name>Constant.ФР_ПаузаПослеZОтчета</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>DataProcessor.ТО_Сканер_ATOL</name>
 		<right>
 			<name>Use</name>
@@ -1194,6 +1209,21 @@
 		</right>
 	</object>
 	<object>
+		<name>Constant.ФР_СниматьКопиюZОтчета</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Constant.ТО_POSтерминал_НовыйВидВозврата</name>
 		<right>
 			<name>Read</name>
@@ -1276,6 +1306,21 @@
 		<name>DataProcessor.ТО_IKC_E260T</name>
 		<right>
 			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Constant.BPM_КоличествоПопытокПодключения</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
 			<value>true</value>
 		</right>
 		<right>

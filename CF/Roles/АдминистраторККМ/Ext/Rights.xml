@@ -239,6 +239,21 @@
 		</right>
 	</object>
 	<object>
+		<name>Constant.ФР_ПаузаПослеZОтчета</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Constant.ТО_POSтерминал_КоличествоЦикловОжиданияОткрытияПорта</name>
 		<right>
 			<name>Read</name>
@@ -607,6 +622,21 @@
 		</right>
 	</object>
 	<object>
+		<name>Constant.ФР_СниматьКопиюZОтчета</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Interface.Пустой</name>
 		<right>
 			<name>Use</name>
@@ -624,6 +654,21 @@
 		<name>DataProcessor.ТО_IKC_E260T</name>
 		<right>
 			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Constant.BPM_КоличествоПопытокПодключения</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
 			<value>true</value>
 		</right>
 		<right>

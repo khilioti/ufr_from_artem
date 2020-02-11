@@ -15,6 +15,21 @@
 		</right>
 	</object>
 	<object>
+		<name>Constant.BPM_АкцииЧерезBPM</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Constant.ТО_POSтерминал_ВидОбработки</name>
 		<right>
 			<name>Read</name>
@@ -77,6 +92,21 @@
 		</right>
 	</object>
 	<object>
+		<name>Constant.ФР_ПаузаПослеZОтчета</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Constant.ТО_POSтерминал_КоличествоЦикловОжиданияОткрытияПорта</name>
 		<right>
 			<name>Read</name>
@@ -96,6 +126,21 @@
 		</right>
 	</object>
 	<object>
+		<name>Constant.BPM_РегистрацияВПроцессинге</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>CommonForm.ОшибкаBPMonline</name>
 		<right>
 			<name>View</name>
@@ -103,7 +148,52 @@
 		</right>
 	</object>
 	<object>
+		<name>Constant.ФР_СниматьКопиюZОтчета</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Constant.BPM_ОтправлятьВсеЧеки</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>CommonForm.ФормаКонстантФискальногоРегистратора</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Constant.BPM_КоличествоПопытокПодключения</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
 		<right>
 			<name>View</name>
 			<value>true</value>

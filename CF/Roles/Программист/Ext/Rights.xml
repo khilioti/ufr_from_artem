@@ -1098,6 +1098,25 @@
 		</right>
 	</object>
 	<object>
+		<name>Constant.BPM_КоличествоПопытокПодключения</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Edit</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Constant.ТО_Сканер_БитДанных</name>
 		<right>
 			<name>Read</name>

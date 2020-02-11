@@ -1081,8 +1081,8 @@
 		<Metadata name="DataProcessor.ТО_IKC_E260T.ObjectModule" id="b61ddf24-0159-4bce-a6ef-d895fd6c7925.0" configVersion="0e0fde72d72bbf47b3df73f12c5ff1b100000000"/>
 		<Metadata name="DataProcessor.ТО_IKC_E260T.Template.Драйвер" id="48920f8f-1ce8-4028-930e-1f57d1b9e769" configVersion="a8a4defc977bd542931ef43086341a1b00000000"/>
 		<Metadata name="DataProcessor.ТО_IKC_E260T.Template.Драйвер.Template" id="48920f8f-1ce8-4028-930e-1f57d1b9e769.0" configVersion="cc4e6b7f70a03843a2904c2ccff7702300000000"/>
-		<Metadata name="DataProcessor.ТО_IKC_E810T" id="e4feacde-a741-4d46-b0f8-68e8824c7f7f" configVersion="9214f7406768ac48b096f2bf2ae2ba4500000000"/>
-		<Metadata name="DataProcessor.ТО_IKC_E810T.ObjectModule" id="e4feacde-a741-4d46-b0f8-68e8824c7f7f.0" configVersion="079e1b6caa7893438ac7e1cee1ad6fa900000000"/>
+		<Metadata name="DataProcessor.ТО_IKC_E810T" id="e4feacde-a741-4d46-b0f8-68e8824c7f7f" configVersion="6c6912958f9ab145b0260dfa89620cde00000000"/>
+		<Metadata name="DataProcessor.ТО_IKC_E810T.ObjectModule" id="e4feacde-a741-4d46-b0f8-68e8824c7f7f.0" configVersion="f43bff319633d5438107ccb946e48e9f00000000"/>
 		<Metadata name="DataProcessor.ТО_IKC_E810T.Template.Драйвер" id="d054ff18-4e82-4443-aa01-499657f94e94" configVersion="216213b22037b847847723123ec6ba5500000000"/>
 		<Metadata name="DataProcessor.ТО_IKC_E810T.Template.Драйвер.Template" id="d054ff18-4e82-4443-aa01-499657f94e94.0" configVersion="0785bd2c3eb0514aa0a0aaa5699e052a00000000"/>
 		<Metadata name="DataProcessor.ТО_MINI_FP82" id="7f71f458-c5fe-45bf-91ad-fca2f210a8ee" configVersion="2f644242d112a7428e4a524aa783ecd900000000"/>

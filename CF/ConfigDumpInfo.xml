@@ -120,8 +120,8 @@
 		<Metadata name="CommonModule.РаботаСПользователями.Module" id="625445c7-a71c-4d30-978a-0ad3c4c79be8.0" configVersion="77325ac0a6db0248a534fd217e87f82200000000"/>
 		<Metadata name="CommonModule.РаботаСЧеком" id="12988af4-8aa3-4dea-a8a3-1c66134dba62" configVersion="8044f442b43d074b911736e3fdfbfd7100000000"/>
 		<Metadata name="CommonModule.РаботаСЧеком.Module" id="12988af4-8aa3-4dea-a8a3-1c66134dba62.0" configVersion="f3ac50baeb691f4a98379f07776f062200000000"/>
-		<Metadata name="CommonModule.РабочееМестоКассира" id="58dc1f49-3f66-483f-82d1-b28875c3911f" configVersion="987ed934c35dd645ac2eb61aec321b7a00000000"/>
-		<Metadata name="CommonModule.РабочееМестоКассира.Module" id="58dc1f49-3f66-483f-82d1-b28875c3911f.0" configVersion="5450cbcdb0514e458d8752b76f58605700000000"/>
+		<Metadata name="CommonModule.РабочееМестоКассира" id="58dc1f49-3f66-483f-82d1-b28875c3911f" configVersion="cb319eebfdf6a44090a9d298046d298900000000"/>
+		<Metadata name="CommonModule.РабочееМестоКассира.Module" id="58dc1f49-3f66-483f-82d1-b28875c3911f.0" configVersion="b15d8e2685a2404eaec9f58c629ecd8b00000000"/>
 		<Metadata name="CommonModule.ТО_Сканер" id="d4501e65-bfdf-4b74-8ba1-d34927f598d4" configVersion="3337d9217994c046a13fa22883cf521100000000"/>
 		<Metadata name="CommonModule.ТО_Сканер.Module" id="d4501e65-bfdf-4b74-8ba1-d34927f598d4.0" configVersion="78ab8e83bb0c864295742c4941e78f6b00000000"/>
 		<Metadata name="CommonModule.ТО_Терминал" id="a7c0d07c-6816-472e-8756-92a5ddf2bb4a" configVersion="a06ad4bd6dfd2f498c529ab13d2a0c4900000000"/>

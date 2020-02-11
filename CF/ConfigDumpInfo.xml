@@ -1407,7 +1407,7 @@
 		<Metadata name="InformationRegister.ЖурналZОтчетовТерминал.Form.ФормаСписка" id="9f240c14-a033-42cf-912d-476832a7bd4c" configVersion="5ba3467c826a83469f8faf74e26b45ed00000000"/>
 		<Metadata name="InformationRegister.ЖурналZОтчетовТерминал.Form.ФормаСписка.Form" id="9f240c14-a033-42cf-912d-476832a7bd4c.0" configVersion="20086c6509321746a0e947b787f9774f00000000"/>
 		<Metadata name="InformationRegister.ЖурналZОтчетовТерминал.RecordSetModule" id="2e8c2f51-dfed-4e15-bec7-3f4352e49090.1" configVersion="420bff484cc47340a7879662b68d0f6200000000"/>
-		<Metadata name="InformationRegister.ЖурналZОтчетовФР" id="05a7e00e-6690-4286-8a48-6788e4987107" configVersion="dfd879592f708549acc2b4c65463a13000000000">
+		<Metadata name="InformationRegister.ЖурналZОтчетовФР" id="05a7e00e-6690-4286-8a48-6788e4987107" configVersion="32df172e9159a0468bb4f534a5f9039400000000">
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_СуммаСкидокПродажа" id="04155afd-0302-40b5-90d2-b02c0ac82bba"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_НДСПродаж_А" id="054d676b-8785-4719-b3e7-c0a6fdd2c577"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_ОборотВозврат_В" id="069bd83d-eb11-439a-8304-7ed2948c6147"/>
@@ -1426,7 +1426,6 @@
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Attribute.ДатаОтправки" id="42c37e94-c784-4a31-8aca-d79e9775721a"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_ОборотиПродаж" id="473c5271-7148-46df-bc8e-3b179bbc170f"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_СтавкаНалога_А" id="49d6f7e2-fc4d-498c-8563-23b06677b715"/>
-			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Dimension.ФР_ДатаВремяПоследнегоОтчета" id="4b3fda34-233e-4125-baf3-b6a4aeaec669"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_ОборотиПродаж_ПС" id="4bdada54-fbc7-46e1-b520-3788c690c4d8"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.КолЧековПродаж" id="53b51178-727e-4824-b659-7bbb8e100c4f"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_ОборотПродаж_Д" id="56deef32-dd6f-43a9-97bf-d33405265d18"/>
@@ -1448,6 +1447,7 @@
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_НДСВозврат_Е" id="913c88cf-6ffe-48e2-9d4f-bc9a43bf1ac7"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_СуммаНаценокВозврат" id="93368700-b74b-4997-afe4-d65664596a0a"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_НДСВозврат_Д" id="95dbcbd9-d75b-4e34-aecd-15de05ad88ce"/>
+			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Attribute.ФР_ДатаВремяПоследнегоОтчета" id="9f29076e-7d0e-4bca-935b-ebf44602a49d"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_НДСВозврат_Г" id="9f3e860e-6442-4a5e-815a-82148467bcd3"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_СтавкаНалога_Б" id="a3516c48-87e8-45a0-adfb-e7ffeadc9dcd"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_ОборотиПродаж_Нал" id="a87a382f-a232-408d-b55f-29049212461b"/>
@@ -1455,7 +1455,6 @@
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_НДСПродаж_Г" id="ac1f112a-e960-4acc-98b8-d735ed51f175"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_ОборотПродаж_Б" id="ad3ee5e9-bd54-44ad-80a3-7b5d866bcdeb"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_ОборотВозврат_А" id="ad8bc539-61d8-491f-85a9-68b873534eca"/>
-			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Dimension.ФР_ДатаПоследнегоОтчета" id="b0237cc7-7e80-40a0-b55f-54025beeb87c"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.КолАнулЧековПродаж" id="b153afd0-2e3c-43c6-b5a3-0e8f9da7d65c"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_ОборотиВозвратов_Нал" id="b6066075-4576-4744-99ed-7e238c4876b4"/>
 			<Metadata name="InformationRegister.ЖурналZОтчетовФР.Resource.ФР_ОборотПродаж_Г" id="c5c410be-ea4c-4cd6-90fb-0e7717ade170"/>

@@ -1,0 +1,3 @@
+*.cf
+UFR_2020_ignore/ConfigDumpInfo.xml
+UFR_2020_ignore/CommonTemplates/**/*.bin

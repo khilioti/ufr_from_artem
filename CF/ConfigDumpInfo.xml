@@ -1029,8 +1029,8 @@
 		<Metadata name="DataProcessor.РМК.Help" id="57ec1e9f-b42c-4d78-bc16-af4c90b7b2cf.1" configVersion="1d24c0a53b814a4897a87ee44098ffeb00000000"/>
 		<Metadata name="DataProcessor.РМК.ManagerModule" id="57ec1e9f-b42c-4d78-bc16-af4c90b7b2cf.2" configVersion="52924a14c365bb4d8c0c5f59c60514e100000000"/>
 		<Metadata name="DataProcessor.РМК.ObjectModule" id="57ec1e9f-b42c-4d78-bc16-af4c90b7b2cf.0" configVersion="41b6c8fa7ff187479501b0d35d8fc72000000000"/>
-		<Metadata name="DataProcessor.ТО_Datecs_FP_3530T" id="e4a0399c-266f-4888-be43-985699113cbd" configVersion="2628c9384d6f1042aedbbf743486f99a00000000"/>
-		<Metadata name="DataProcessor.ТО_Datecs_FP_3530T.ObjectModule" id="e4a0399c-266f-4888-be43-985699113cbd.0" configVersion="95def279e58aec439996489a2efb364400000000"/>
+		<Metadata name="DataProcessor.ТО_Datecs_FP_3530T" id="e4a0399c-266f-4888-be43-985699113cbd" configVersion="c71187f8e5e88a47bc9bc4a48d8d517c00000000"/>
+		<Metadata name="DataProcessor.ТО_Datecs_FP_3530T.ObjectModule" id="e4a0399c-266f-4888-be43-985699113cbd.0" configVersion="9ea8c38384fc344b99638d2a7dc830ba00000000"/>
 		<Metadata name="DataProcessor.ТО_Datecs_FP_3530T.Template.Драйвер0" id="e80b6d00-8292-437f-b8e8-27955f62f785" configVersion="79810e54580d3d48baa44e50e99d16ff00000000"/>
 		<Metadata name="DataProcessor.ТО_Datecs_FP_3530T.Template.Драйвер0.Template" id="e80b6d00-8292-437f-b8e8-27955f62f785.0" configVersion="97ac1e435c121449806df68d74c1896400000000"/>
 		<Metadata name="DataProcessor.ТО_Datecs_FP_3530T.Template.Драйвер10" id="3174ed13-3051-45a2-9e20-120ddd3a59cd" configVersion="930d407e7141b545b7d1d32584f2b51300000000"/>

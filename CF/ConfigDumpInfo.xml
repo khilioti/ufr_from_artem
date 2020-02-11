@@ -903,7 +903,7 @@
 		<Metadata name="DataProcessor.КонсольЗапросов.Form.ФормаПараметров.Form" id="e291ac96-9767-4ef0-a528-e3ff3a2b3b78.0" configVersion="6da61c7db21a4642a2c8cd2e1f892f1b00000000"/>
 		<Metadata name="DataProcessor.КонсольЗапросов.Form.ФормаПараметров.Help" id="e291ac96-9767-4ef0-a528-e3ff3a2b3b78.1" configVersion="38027165596f064188bdf9c828987b4000000000"/>
 		<Metadata name="DataProcessor.КонсольЗапросов.Help" id="c379d82d-8c2e-4beb-b32e-932c354218db.1" configVersion="712fd9f036e35f438b5b7c4c6c34cbf300000000"/>
-		<Metadata name="DataProcessor.РМК" id="57ec1e9f-b42c-4d78-bc16-af4c90b7b2cf" configVersion="c82da5baae30424e860495bcf0a0f51500000000">
+		<Metadata name="DataProcessor.РМК" id="57ec1e9f-b42c-4d78-bc16-af4c90b7b2cf" configVersion="248534d0a640ac45b2891be1c041be7800000000">
 			<Metadata name="DataProcessor.РМК.TabularSection.Продажа.Attribute.СуммаБезСкидки" id="02328727-53c9-492c-bf61-8bc5d338f6f1"/>
 			<Metadata name="DataProcessor.РМК.TabularSection.ТЧ_ЖурналСкидок.Attribute.НомерАкции" id="04f89cdf-7c92-4492-84ed-7e26f8b418cd"/>
 			<Metadata name="DataProcessor.РМК.TabularSection.Продажа.Attribute.СуммаСкидки" id="0533f63d-474a-4534-b8bb-baf77ea509e7"/>
@@ -1014,8 +1014,8 @@
 		<Metadata name="DataProcessor.РМК.Form.BPM7_РегистрацияЧерезСМС.Form" id="b53a00bb-541b-410c-804a-76a48b456803.0" configVersion="c7fa2cc3e4501e4a8f29604ba56e805c00000000"/>
 		<Metadata name="DataProcessor.РМК.Form.FISHKA_ОплатаЧерезСМС" id="835417d5-463f-4985-85bd-e8acfd8e7137" configVersion="3a3817258298774d8cbe9623d15f33bc00000000"/>
 		<Metadata name="DataProcessor.РМК.Form.FISHKA_ОплатаЧерезСМС.Form" id="835417d5-463f-4985-85bd-e8acfd8e7137.0" configVersion="c5f729462000d046bc97e091b719ce7d00000000"/>
-		<Metadata name="DataProcessor.РМК.Form.Форма" id="786654af-fa35-4751-9730-616782008f3a" configVersion="2dbf5e1623dba4488ddae9cfeef433c700000000"/>
-		<Metadata name="DataProcessor.РМК.Form.Форма.Form" id="786654af-fa35-4751-9730-616782008f3a.0" configVersion="72d8d2447fa91f4c8b74f958d9438d0e00000000"/>
+		<Metadata name="DataProcessor.РМК.Form.Форма" id="786654af-fa35-4751-9730-616782008f3a" configVersion="4e2a71d7fe20c24baf0cea9d29c6a09b00000000"/>
+		<Metadata name="DataProcessor.РМК.Form.Форма.Form" id="786654af-fa35-4751-9730-616782008f3a.0" configVersion="1b4b512930ec9a47bf308a41b33a751600000000"/>
 		<Metadata name="DataProcessor.РМК.Form.Форма_СканированиеБК" id="81b0400f-a9ca-4edc-8b18-30e47c08092c" configVersion="080d132abc06174ca2dbeea3d848beec00000000"/>
 		<Metadata name="DataProcessor.РМК.Form.Форма_СканированиеБК.Form" id="81b0400f-a9ca-4edc-8b18-30e47c08092c.0" configVersion="cfc195f2bb20014c9223026ca59da6f400000000"/>
 		<Metadata name="DataProcessor.РМК.Form.Форма_СписокЧековККМ" id="acc0fa6d-7951-4a70-a7b9-459552293a1c" configVersion="d0a5d90accb897468898633053fd281700000000"/>
@@ -1028,7 +1028,7 @@
 		<Metadata name="DataProcessor.РМК.Form.ФормаПередОткрытием.Form" id="7380e0e1-d61d-4e42-9d9f-189aeb347d89.0" configVersion="e86ce21748094b46969e7ef73f60eec900000000"/>
 		<Metadata name="DataProcessor.РМК.Help" id="57ec1e9f-b42c-4d78-bc16-af4c90b7b2cf.1" configVersion="1d24c0a53b814a4897a87ee44098ffeb00000000"/>
 		<Metadata name="DataProcessor.РМК.ManagerModule" id="57ec1e9f-b42c-4d78-bc16-af4c90b7b2cf.2" configVersion="52924a14c365bb4d8c0c5f59c60514e100000000"/>
-		<Metadata name="DataProcessor.РМК.ObjectModule" id="57ec1e9f-b42c-4d78-bc16-af4c90b7b2cf.0" configVersion="318647f6d6fd094d88c35eb61aa17a4900000000"/>
+		<Metadata name="DataProcessor.РМК.ObjectModule" id="57ec1e9f-b42c-4d78-bc16-af4c90b7b2cf.0" configVersion="dc3bb6c53a1e0848a778aad29e296d0800000000"/>
 		<Metadata name="DataProcessor.ТО_Datecs_FP_3530T" id="e4a0399c-266f-4888-be43-985699113cbd" configVersion="2628c9384d6f1042aedbbf743486f99a00000000"/>
 		<Metadata name="DataProcessor.ТО_Datecs_FP_3530T.ObjectModule" id="e4a0399c-266f-4888-be43-985699113cbd.0" configVersion="95def279e58aec439996489a2efb364400000000"/>
 		<Metadata name="DataProcessor.ТО_Datecs_FP_3530T.Template.Драйвер0" id="e80b6d00-8292-437f-b8e8-27955f62f785" configVersion="79810e54580d3d48baa44e50e99d16ff00000000"/>

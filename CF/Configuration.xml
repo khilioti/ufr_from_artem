@@ -32,11 +32,11 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Управление фискальными регистраторами для Украины, редакция 2.0.0.501 от 05.02.2020 г.</v8:content>
+					<v8:content>Управление фискальными регистраторами для Украины, редакция 2.0.0.502 от 05.02.2020 г.</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>uk</v8:lang>
-					<v8:content>Управління фіскальними реєстраторами для України, редакція 2.0.0.501 від 05.02.2020 р.</v8:content>
+					<v8:content>Управління фіскальними реєстраторами для України, редакція 2.0.0.502 від 05.02.2020 р.</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -51,7 +51,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.ПолныеПрава</xr:Item>
 			</DefaultRoles>
 			<Vendor>Стиль Д</Vendor>
-			<Version>2.0.0.501</Version>
+			<Version>2.0.0.502</Version>
 			<UpdateCatalogAddress>http://update.prostor.ua</UpdateCatalogAddress>
 			<IncludeHelpInContents>true</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -178,23 +178,23 @@
 			<BriefInformation>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Управление фискальными регистраторами для Украины, редакция 2.0.0.501 от 05.02.2020 г.</v8:content>
+					<v8:content>Управление фискальными регистраторами для Украины, редакция 2.0.0.502 от 05.02.2020 г.</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>uk</v8:lang>
-					<v8:content>Управління фіскальними реєстраторами для України, редакція 2.0.0.501 від 05.02.2020 р.</v8:content>
+					<v8:content>Управління фіскальними реєстраторами для України, редакція 2.0.0.502 від 05.02.2020 р.</v8:content>
 				</v8:item>
 			</BriefInformation>
 			<DetailedInformation>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Управление фискальными регистраторами для Украины, редакция 2.0.0.501
+					<v8:content>Управление фискальными регистраторами для Украины, редакция 2.0.0.502
 Разработка конфигурации: "Стиль Д", 2012 - 2019
 05.02.2020 г.</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>uk</v8:lang>
-					<v8:content>Управління фіскальними реєстраторами для України", редакція 2.0.0.501
+					<v8:content>Управління фіскальними реєстраторами для України", редакція 2.0.0.502
 Розробка конфігурації: "Стиль Д", 2012 - 2019
 05.02.2020 р.
 </v8:content>

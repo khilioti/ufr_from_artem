@@ -1670,16 +1670,16 @@
 		<Metadata name="Role.АдминистративныеФункции.Rights" id="40eafdac-417c-465c-8659-53aa0a82d4db.0" configVersion="404b4c68004ae34f8a1c18ffb4a2f4d100000000"/>
 		<Metadata name="Role.АдминистраторККМ" id="5275694c-5da4-4563-9742-633ded88d582" configVersion="2e538dc497479c40ada95df396bd09c900000000"/>
 		<Metadata name="Role.АдминистраторККМ.Rights" id="5275694c-5da4-4563-9742-633ded88d582.0" configVersion="c30e46e0731b5140a84fd59670beebb200000000"/>
-		<Metadata name="Role.ОператорККМ" id="c923fbe5-89f2-40dc-9e73-78f9d30305d4" configVersion="8d76a3fe9783df4dbcff3355775edb6800000000"/>
-		<Metadata name="Role.ОператорККМ.Rights" id="c923fbe5-89f2-40dc-9e73-78f9d30305d4.0" configVersion="cab7327156322345b2f5ea9b46b3d2c600000000"/>
+		<Metadata name="Role.ОператорККМ" id="c923fbe5-89f2-40dc-9e73-78f9d30305d4" configVersion="12335348693e2c4a853a1947f18f578f00000000"/>
+		<Metadata name="Role.ОператорККМ.Rights" id="c923fbe5-89f2-40dc-9e73-78f9d30305d4.0" configVersion="f6f35d41c07c5c458a259d23371d7fcc00000000"/>
 		<Metadata name="Role.ПолныеПрава" id="87090b31-2cd0-4b45-8b24-efdb2383b1a2" configVersion="9c9afc1080ce66498e1ae6a567f09b4b00000000"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="87090b31-2cd0-4b45-8b24-efdb2383b1a2.0" configVersion="d68fba25c75f354dabcef335d6fb99f300000000"/>
-		<Metadata name="Role.Пользователь" id="0ef1283f-da3c-4adf-898e-1d8ab10fed5b" configVersion="b7f4f777a6dfc1498137dac85107fdaa00000000"/>
-		<Metadata name="Role.Пользователь.Rights" id="0ef1283f-da3c-4adf-898e-1d8ab10fed5b.0" configVersion="d1336db0355289489a99de12989b43ac00000000"/>
+		<Metadata name="Role.Пользователь" id="0ef1283f-da3c-4adf-898e-1d8ab10fed5b" configVersion="8df8b1fa14178f41a81bb4d1b7afa40800000000"/>
+		<Metadata name="Role.Пользователь.Rights" id="0ef1283f-da3c-4adf-898e-1d8ab10fed5b.0" configVersion="1edc8391fe2a1b4f8f7b9e61ceab409500000000"/>
 		<Metadata name="Role.Программист" id="fcc3d67f-1530-4f9a-bb10-2d8ad936c57b" configVersion="f6997de618aace41884110d209fa1fd100000000"/>
 		<Metadata name="Role.Программист.Rights" id="fcc3d67f-1530-4f9a-bb10-2d8ad936c57b.0" configVersion="a8902e059bd5dd4c9a58b7ff483d535a00000000"/>
-		<Metadata name="Role.УправляющийМагазином" id="cfb0cea8-bbf9-4e75-a33b-12260c24bbce" configVersion="483e083ac58eb14eb5995a58a44edfae00000000"/>
-		<Metadata name="Role.УправляющийМагазином.Rights" id="cfb0cea8-bbf9-4e75-a33b-12260c24bbce.0" configVersion="e0241eb930b4eb49b252dd478382392b00000000"/>
+		<Metadata name="Role.УправляющийМагазином" id="cfb0cea8-bbf9-4e75-a33b-12260c24bbce" configVersion="372d457004896a41a9fe1198d21f8fab00000000"/>
+		<Metadata name="Role.УправляющийМагазином.Rights" id="cfb0cea8-bbf9-4e75-a33b-12260c24bbce.0" configVersion="07fcf5ad62254745a425d10e3d6cc33b00000000"/>
 		<Metadata name="SessionParameter.ОбщиеЗначения" id="ef6b2b84-b3cb-4e35-8c32-92211f53f830" configVersion="b85a4a6433dca44bb0903e1b52d76b4000000000"/>
 		<Metadata name="SessionParameter.ТекущийПользователь" id="1a6feb83-9703-4960-9287-95f6ed1c7d8a" configVersion="9a0ad0d36a54ac4c94a5a4101832047e00000000"/>
 		<Metadata name="Style.Основной" id="72ef09b4-4393-4d23-a530-7e5b50cf1d24" configVersion="39e3b27094f6844fabb4c214b4811cb000000000"/>

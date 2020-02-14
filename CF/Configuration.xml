@@ -640,14 +640,6 @@
 			<Constant>BPM_КоличествоПопытокПодключения</Constant>
 			<Constant>BPM_ОтправлятьВсеЧеки</Constant>
 			<Constant>BPM_РегистрацияВПроцессинге</Constant>
-			<Constant>BPMonline_ConnectTimeout</Constant>
-			<Constant>BPMonline_ConnectTimeout_Login</Constant>
-			<Constant>BPMonline_ReceiveTimeout</Constant>
-			<Constant>BPMonline_ReceiveTimeout_Login</Constant>
-			<Constant>BPMonline_ResolveTimeout</Constant>
-			<Constant>BPMonline_ResolveTimeout_Login</Constant>
-			<Constant>BPMonline_SendTimeout</Constant>
-			<Constant>BPMonline_SendTimeout_Login</Constant>
 			<Constant>BPMonline_Version</Constant>
 			<Constant>BPMonline_Адрес</Constant>
 			<Constant>BPMonline_НеИспользовать</Constant>

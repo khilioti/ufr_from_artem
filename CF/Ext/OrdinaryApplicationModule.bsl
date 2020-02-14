@@ -465,19 +465,6 @@ SaleListDbf						="\salelist.dbf";
 	Константы.BPMonline_Адрес.Установить("processing.prostor.ua");
 КонецЕсли;	
 
-Если Константы.BPMonline_ReceiveTimeout_Login.Получить()=0 Тогда		Константы.BPMonline_ReceiveTimeout_Login.Установить(5)		КонецЕсли;
-Если Константы.BPMonline_ConnectTimeout_Login.Получить()=0 Тогда		Константы.BPMonline_ConnectTimeout_Login.Установить(5)		КонецЕсли;
-Если Константы.BPMonline_SendTimeout_Login.Получить()=0 Тогда			Константы.BPMonline_SendTimeout_Login.Установить(5)			КонецЕсли;
-Если Константы.BPMonline_ResolveTimeout_Login.Получить()=0 Тогда		Константы.BPMonline_ResolveTimeout_Login.Установить(5)		КонецЕсли;
-
-Если Константы.BPMonline_ReceiveTimeout.Получить()=0 Тогда				Константы.BPMonline_ReceiveTimeout.Установить(15)			КонецЕсли;
-Если Константы.BPMonline_ConnectTimeout.Получить()=0 Тогда				Константы.BPMonline_ConnectTimeout.Установить(15)			КонецЕсли;
-Если Константы.BPMonline_SendTimeout.Получить()=0 Тогда					Константы.BPMonline_SendTimeout.Установить(15)				КонецЕсли;
-Если Константы.BPMonline_ResolveTimeout.Получить()=0 Тогда				Константы.BPMonline_ResolveTimeout.Установить(15)			КонецЕсли;
-
-
-
-
 // Настройки для FISHKA (первые по умолчанию)
 //Константы.FISHKA_ОткрытьДоступ.Установить(Истина);
 Если ПустаяСтрока(Константы.FISHKA_URL.Получить()) Тогда

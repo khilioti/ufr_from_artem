@@ -42,6 +42,21 @@
 		</right>
 	</object>
 	<object>
+		<name>Constant.ЖелтыйЦенникУчаствуетВПроцессинге</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Constant.BPM_АкцииЧерезBPM</name>
 		<right>
 			<name>Read</name>
@@ -879,6 +894,21 @@
 	</object>
 	<object>
 		<name>Constant.Розница_Сервер</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Constant.BPM_ТаймаутЗапросов</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>

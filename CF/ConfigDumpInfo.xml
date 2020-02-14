@@ -1672,8 +1672,8 @@
 		<Metadata name="Role.Пользователь.Rights" id="0ef1283f-da3c-4adf-898e-1d8ab10fed5b.0" configVersion="1edc8391fe2a1b4f8f7b9e61ceab409500000000"/>
 		<Metadata name="Role.Программист" id="fcc3d67f-1530-4f9a-bb10-2d8ad936c57b" configVersion="f6997de618aace41884110d209fa1fd100000000"/>
 		<Metadata name="Role.Программист.Rights" id="fcc3d67f-1530-4f9a-bb10-2d8ad936c57b.0" configVersion="a8902e059bd5dd4c9a58b7ff483d535a00000000"/>
-		<Metadata name="Role.УправляющийМагазином" id="cfb0cea8-bbf9-4e75-a33b-12260c24bbce" configVersion="372d457004896a41a9fe1198d21f8fab00000000"/>
-		<Metadata name="Role.УправляющийМагазином.Rights" id="cfb0cea8-bbf9-4e75-a33b-12260c24bbce.0" configVersion="07fcf5ad62254745a425d10e3d6cc33b00000000"/>
+		<Metadata name="Role.УправляющийМагазином" id="cfb0cea8-bbf9-4e75-a33b-12260c24bbce" configVersion="549b37547a616e4bac0cb4a3e296fa0600000000"/>
+		<Metadata name="Role.УправляющийМагазином.Rights" id="cfb0cea8-bbf9-4e75-a33b-12260c24bbce.0" configVersion="071404a44e4ca84790149fa468daa7dd00000000"/>
 		<Metadata name="SessionParameter.ОбщиеЗначения" id="ef6b2b84-b3cb-4e35-8c32-92211f53f830" configVersion="b85a4a6433dca44bb0903e1b52d76b4000000000"/>
 		<Metadata name="SessionParameter.ТекущийПользователь" id="1a6feb83-9703-4960-9287-95f6ed1c7d8a" configVersion="9a0ad0d36a54ac4c94a5a4101832047e00000000"/>
 		<Metadata name="Style.Основной" id="72ef09b4-4393-4d23-a530-7e5b50cf1d24" configVersion="39e3b27094f6844fabb4c214b4811cb000000000"/>

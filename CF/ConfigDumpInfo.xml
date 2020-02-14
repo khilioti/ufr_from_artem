@@ -82,8 +82,8 @@
 		<Metadata name="CommonForm.ФормаВыбораДрайвераФР.Form" id="1bfdf239-fbe9-45ee-9bef-eea56ca6e512.0" configVersion="6a04dd54d43ec444821e730921884fee00000000"/>
 		<Metadata name="CommonForm.ФормаИдетТранзацияНаТерминале" id="32115b86-e08e-4f3d-a97e-5c5bc4a096bf" configVersion="05caac3f4405a644a0a58e3a5d4972ba00000000"/>
 		<Metadata name="CommonForm.ФормаИдетТранзацияНаТерминале.Form" id="32115b86-e08e-4f3d-a97e-5c5bc4a096bf.0" configVersion="ea6c3b5e94ed0c45840ba2c25551545400000000"/>
-		<Metadata name="CommonForm.ФормаКонстантФискальногоРегистратора" id="b2edaf49-b937-4cdd-a824-5596396117f8" configVersion="9d4e43bac2916d41b4a9106c656941a600000000"/>
-		<Metadata name="CommonForm.ФормаКонстантФискальногоРегистратора.Form" id="b2edaf49-b937-4cdd-a824-5596396117f8.0" configVersion="b53815a93159a649927be2454e0d74da00000000"/>
+		<Metadata name="CommonForm.ФормаКонстантФискальногоРегистратора" id="b2edaf49-b937-4cdd-a824-5596396117f8" configVersion="18d7a987ed429a419d10db5009551e3600000000"/>
+		<Metadata name="CommonForm.ФормаКонстантФискальногоРегистратора.Form" id="b2edaf49-b937-4cdd-a824-5596396117f8.0" configVersion="35b4e3265ce64a43b0fd6b36fd6fa47200000000"/>
 		<Metadata name="CommonForm.ФормаОПрограмме" id="9f44f1ba-8690-4677-aabc-a74479920939" configVersion="014341635261cc4ab761317e3b3b906200000000"/>
 		<Metadata name="CommonForm.ФормаОПрограмме.Form" id="9f44f1ba-8690-4677-aabc-a74479920939.0" configVersion="24e74207657d484bbf4b8474f206d3a500000000"/>
 		<Metadata name="CommonForm.ФормаПолученияДанныхПоВебСервису" id="0fdcd988-6af6-43e8-8f09-80657a87d37f" configVersion="074fce848d429347a17b859d15368b4a00000000"/>

@@ -640,6 +640,7 @@
 			<Constant>BPM_КоличествоПопытокПодключения</Constant>
 			<Constant>BPM_ОтправлятьВсеЧеки</Constant>
 			<Constant>BPM_РегистрацияВПроцессинге</Constant>
+			<Constant>BPM_ТаймаутЗапросов</Constant>
 			<Constant>BPMonline_Version</Constant>
 			<Constant>BPMonline_Адрес</Constant>
 			<Constant>BPMonline_НеИспользовать</Constant>
@@ -687,6 +688,7 @@
 			<Constant>ФР_СниматьКопиюZОтчета</Constant>
 			<Constant>ШК_Ануляции</Constant>
 			<Constant>ШК_Возврата</Constant>
+			<Constant>ЖелтыйЦенникУчаствуетВПроцессинге</Constant>
 			<CommonForm>АвторизацияПользователя</CommonForm>
 			<CommonForm>Выгрузка</CommonForm>
 			<CommonForm>Индикатор</CommonForm>

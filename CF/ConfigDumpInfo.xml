@@ -790,7 +790,7 @@
 		<Metadata name="CommonTemplate.Taskkill_shablon.Template" id="6e935257-8a35-4364-a6ec-b7762a77fdad.0" configVersion="5097dc3911ecba45b4629e76844f861000000000"/>
 		<Metadata name="CommonTemplate.МакетSalelistДБФ" id="5d602157-2c36-47a7-a8d9-9b462ea76d45" configVersion="d4919428b619504997683c28c84bed1300000000"/>
 		<Metadata name="CommonTemplate.МакетSalelistДБФ.Template" id="5d602157-2c36-47a7-a8d9-9b462ea76d45.0" configVersion="ea6842422bfdd748bad5101a5886c79600000000"/>
-		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины" id="1e4190e9-76c2-456e-a607-4d817110ffd9" configVersion="d94e17e07c8ba34b9690a7b5a054b3a200000000"/>
+		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины" id="1e4190e9-76c2-456e-a607-4d817110ffd9" configVersion="5c0939efb6a4534f83195d8f03f241eb00000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.ExternalConnectionModule" id="6b021b70-482d-4baf-b590-b86b68d4730e.5" configVersion="1ca98c62337e034f9961390e4ce523ce00000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.Help" id="6b021b70-482d-4baf-b590-b86b68d4730e.3" configVersion="7e8d548864d9014db99609651ee4682900000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.Logo" id="6b021b70-482d-4baf-b590-b86b68d4730e.1" configVersion="33a2292056083e4b8a2fad396ea876af00000000"/>
@@ -803,6 +803,7 @@
 		<Metadata name="Constant.BPM_КоличествоПопытокПодключения" id="b7da477d-154d-4c1f-ada6-7e1234277267" configVersion="8e2fac18c608fb448afd8c18d4307e4f00000000"/>
 		<Metadata name="Constant.BPM_ОтправлятьВсеЧеки" id="b14dfeda-7ff3-4a3b-b230-87439d0661da" configVersion="1b143db98b679c4884c27706fa332fdb00000000"/>
 		<Metadata name="Constant.BPM_РегистрацияВПроцессинге" id="3ec25d5d-fcc5-4713-84fd-3d6a29dd0dec" configVersion="8c12318a0cbdfd48af30e5270744082200000000"/>
+		<Metadata name="Constant.BPM_ТаймаутЗапросов" id="93a48d07-6766-49da-8eb9-c1884eed8e5d" configVersion="aae1e0ebc2dcfc49944fdf274562ed6b00000000"/>
 		<Metadata name="Constant.BPMonline_Version" id="db2418eb-4cf6-471f-99ba-5dd77f771b7c" configVersion="c5bed4ba2f062848b9cdc1bb781f4caa00000000"/>
 		<Metadata name="Constant.BPMonline_Адрес" id="3b131e6e-8d67-46f4-8112-1795edd7c64f" configVersion="f0e94a3543f6d54aa417fb332f728fc300000000"/>
 		<Metadata name="Constant.BPMonline_НеИспользовать" id="8b17e03c-15b7-40df-bf39-8e0f59732a3c" configVersion="1a6cfdfdda6ce944bdffb6193041083e00000000"/>
@@ -812,6 +813,7 @@
 		<Metadata name="Constant.TRASSIR_Адрес" id="287929b7-9b20-45d6-9c10-3a7d24424d85" configVersion="d59bba2a2f9c0a408fed61846b83ee0d00000000"/>
 		<Metadata name="Constant.TRASSIR_Использовать" id="e1422154-260b-4418-86eb-a173b9776e90" configVersion="73c1163562bdde4790b2b1594b3c430800000000"/>
 		<Metadata name="Constant.TRASSIR_Порт" id="ca8a3fee-7d75-4f63-b352-4116b2c7aea1" configVersion="2d20896e935840498c1c94cb6d972d8b00000000"/>
+		<Metadata name="Constant.ЖелтыйЦенникУчаствуетВПроцессинге" id="055a6576-3f90-4b8b-9ffa-e45c0d5e0ecd" configVersion="5f83627f886b694cb740776468e22d8e00000000"/>
 		<Metadata name="Constant.ЗаголовокСистемы" id="300cd5a6-d764-40e4-8169-200fdce01cd5" configVersion="22980fe3b2b57445a8acd58179fcb87c00000000"/>
 		<Metadata name="Constant.НомерВерсииКонфигурации" id="6e287191-abb4-4bb4-bbdb-29f645dffdd5" configVersion="2fe36f296460f24e93390f37933b95d600000000"/>
 		<Metadata name="Constant.ПризнакАвтономнойРаботыУФР" id="140f9f7c-3f16-4ab9-a4ce-e78b4245d39f" configVersion="f186a64edd834645a39e71a722493ad400000000"/>
@@ -1662,8 +1664,8 @@
 		<Metadata name="Role.АдминистративныеФункции.Rights" id="40eafdac-417c-465c-8659-53aa0a82d4db.0" configVersion="404b4c68004ae34f8a1c18ffb4a2f4d100000000"/>
 		<Metadata name="Role.АдминистраторККМ" id="5275694c-5da4-4563-9742-633ded88d582" configVersion="2e538dc497479c40ada95df396bd09c900000000"/>
 		<Metadata name="Role.АдминистраторККМ.Rights" id="5275694c-5da4-4563-9742-633ded88d582.0" configVersion="c30e46e0731b5140a84fd59670beebb200000000"/>
-		<Metadata name="Role.ОператорККМ" id="c923fbe5-89f2-40dc-9e73-78f9d30305d4" configVersion="12335348693e2c4a853a1947f18f578f00000000"/>
-		<Metadata name="Role.ОператорККМ.Rights" id="c923fbe5-89f2-40dc-9e73-78f9d30305d4.0" configVersion="f6f35d41c07c5c458a259d23371d7fcc00000000"/>
+		<Metadata name="Role.ОператорККМ" id="c923fbe5-89f2-40dc-9e73-78f9d30305d4" configVersion="5e43bc245e1f6047a8b221a66dd152e900000000"/>
+		<Metadata name="Role.ОператорККМ.Rights" id="c923fbe5-89f2-40dc-9e73-78f9d30305d4.0" configVersion="72e67114715c604a850194d702285f1b00000000"/>
 		<Metadata name="Role.ПолныеПрава" id="87090b31-2cd0-4b45-8b24-efdb2383b1a2" configVersion="9c9afc1080ce66498e1ae6a567f09b4b00000000"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="87090b31-2cd0-4b45-8b24-efdb2383b1a2.0" configVersion="d68fba25c75f354dabcef335d6fb99f300000000"/>
 		<Metadata name="Role.Пользователь" id="0ef1283f-da3c-4adf-898e-1d8ab10fed5b" configVersion="8df8b1fa14178f41a81bb4d1b7afa40800000000"/>

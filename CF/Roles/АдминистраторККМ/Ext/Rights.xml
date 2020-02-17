@@ -755,6 +755,21 @@
 		</right>
 	</object>
 	<object>
+		<name>Constant.ПередаватьЧекиВРТК</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>SessionParameter.ОбщиеЗначения</name>
 		<right>
 			<name>Get</name>

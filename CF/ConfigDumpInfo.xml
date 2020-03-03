@@ -790,12 +790,12 @@
 		<Metadata name="CommonTemplate.Taskkill_shablon.Template" id="6e935257-8a35-4364-a6ec-b7762a77fdad.0" configVersion="5097dc3911ecba45b4629e76844f861000000000"/>
 		<Metadata name="CommonTemplate.МакетSalelistДБФ" id="5d602157-2c36-47a7-a8d9-9b462ea76d45" configVersion="d4919428b619504997683c28c84bed1300000000"/>
 		<Metadata name="CommonTemplate.МакетSalelistДБФ.Template" id="5d602157-2c36-47a7-a8d9-9b462ea76d45.0" configVersion="ea6842422bfdd748bad5101a5886c79600000000"/>
-		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины" id="1e4190e9-76c2-456e-a607-4d817110ffd9" configVersion="9e428c678f14614db722c7b0f985e50000000000"/>
+		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины" id="1e4190e9-76c2-456e-a607-4d817110ffd9" configVersion="49c0ec9f7d478c468ace52055538271000000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.ExternalConnectionModule" id="6b021b70-482d-4baf-b590-b86b68d4730e.5" configVersion="1ca98c62337e034f9961390e4ce523ce00000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.Help" id="6b021b70-482d-4baf-b590-b86b68d4730e.3" configVersion="7e8d548864d9014db99609651ee4682900000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.Logo" id="6b021b70-482d-4baf-b590-b86b68d4730e.1" configVersion="33a2292056083e4b8a2fad396ea876af00000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.ManagedApplicationModule" id="6b021b70-482d-4baf-b590-b86b68d4730e.6" configVersion="a2e724b4d106784cbc91ad059f8bd8b300000000"/>
-		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.OrdinaryApplicationModule" id="6b021b70-482d-4baf-b590-b86b68d4730e.0" configVersion="7784b22bb26d2049929d18a7c2efbd9500000000"/>
+		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.OrdinaryApplicationModule" id="6b021b70-482d-4baf-b590-b86b68d4730e.0" configVersion="87a27a5a9eb0bb4b82b5d4a42484098f00000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.ParentConfigurations" id="6b021b70-482d-4baf-b590-b86b68d4730e.4" configVersion="3afa7a92c5ae7b4ea3fd92a173370e0200000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.SessionModule" id="6b021b70-482d-4baf-b590-b86b68d4730e.7" configVersion="fff1446115bc01418e433f8d913c58e800000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.Splash" id="6b021b70-482d-4baf-b590-b86b68d4730e.2" configVersion="c18ec066f049aa42be9ed26dfccea5d400000000"/>

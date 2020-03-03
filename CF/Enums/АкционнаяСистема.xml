@@ -52,11 +52,11 @@
 			</EnumValue>
 			<EnumValue uuid="1b2ffc35-212f-4ba0-a9e9-8b8cfbcecaea">
 				<Properties>
-					<Name>BPM</Name>
+					<Name>BPMonline</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>BPM</v8:content>
+							<v8:content>BPMonline</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

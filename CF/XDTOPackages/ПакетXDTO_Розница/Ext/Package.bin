@@ -105,5 +105,6 @@
 		<property name="Возврат_НомерЧекаККМ" type="xs:anyType"/>
 		<property name="Возврат_КодТТ" type="xs:anyType"/>
 		<property name="BPMonline_PreprocessingId" type="xs:anyType"/>
+		<property name="АкционнаяСистема" type="xs:anyType"/>
 	</objectType>
 </package>

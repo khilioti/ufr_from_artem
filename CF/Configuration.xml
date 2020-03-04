@@ -727,6 +727,7 @@
 			<Enum>ТипАкции</Enum>
 			<Enum>ТООшибкиОбщие</Enum>
 			<Enum>ТООшибкиФР</Enum>
+			<Enum>ВидыЦенников</Enum>
 			<DataProcessor>ГрупповаяОбработкаСправочниковИДокументов</DataProcessor>
 			<DataProcessor>ЗагрузкаДанныхИзXML</DataProcessor>
 			<DataProcessor>КонсольЗапросов</DataProcessor>

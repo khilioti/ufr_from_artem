@@ -790,7 +790,7 @@
 		<Metadata name="CommonTemplate.Taskkill_shablon.Template" id="6e935257-8a35-4364-a6ec-b7762a77fdad.0" configVersion="5097dc3911ecba45b4629e76844f861000000000"/>
 		<Metadata name="CommonTemplate.МакетSalelistДБФ" id="5d602157-2c36-47a7-a8d9-9b462ea76d45" configVersion="d4919428b619504997683c28c84bed1300000000"/>
 		<Metadata name="CommonTemplate.МакетSalelistДБФ.Template" id="5d602157-2c36-47a7-a8d9-9b462ea76d45.0" configVersion="ea6842422bfdd748bad5101a5886c79600000000"/>
-		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины" id="1e4190e9-76c2-456e-a607-4d817110ffd9" configVersion="49c0ec9f7d478c468ace52055538271000000000"/>
+		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины" id="1e4190e9-76c2-456e-a607-4d817110ffd9" configVersion="177817c93bfdda47a4042eab71f8fa0200000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.ExternalConnectionModule" id="6b021b70-482d-4baf-b590-b86b68d4730e.5" configVersion="1ca98c62337e034f9961390e4ce523ce00000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.Help" id="6b021b70-482d-4baf-b590-b86b68d4730e.3" configVersion="7e8d548864d9014db99609651ee4682900000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.Logo" id="6b021b70-482d-4baf-b590-b86b68d4730e.1" configVersion="33a2292056083e4b8a2fad396ea876af00000000"/>
@@ -1284,6 +1284,10 @@
 			<Metadata name="Enum.ВидыПараметровКассыККМ.EnumValue.ПодарочныеСертификаты" id="84ef0f8a-c8cb-40a2-ba8f-2a2b9a71567a"/>
 			<Metadata name="Enum.ВидыПараметровКассыККМ.EnumValue.НастройкиШаблонаЧека" id="e91f6e1d-4069-4eef-a23f-7770912172af"/>
 			<Metadata name="Enum.ВидыПараметровКассыККМ.EnumValue.АдминистративныеНастройки" id="f66a118e-09bd-454f-9962-9138a5ce4cfd"/>
+		</Metadata>
+		<Metadata name="Enum.ВидыЦенников" id="7336316d-b4cd-4cd3-9414-2f5dbcfe91e5" configVersion="07c6ce1609693a40a85fb525de4dbc0000000000">
+			<Metadata name="Enum.ВидыЦенников.EnumValue.ЖелтыйЦенник" id="a19d2163-96da-4f66-b8f8-4c455f9a0608"/>
+			<Metadata name="Enum.ВидыЦенников.EnumValue.БелыйЦенник" id="e1ddac6d-7755-4443-942b-4817ff0a6162"/>
 		</Metadata>
 		<Metadata name="Enum.ПорядкиОкругления" id="2c537cbd-974f-4836-9fdd-15c588c3d5d4" configVersion="2003b256b779c34f947cc238b2c3123800000000">
 			<Metadata name="Enum.ПорядкиОкругления.EnumValue.Окр0_5" id="1b9f04e9-6662-4ec2-b1ed-e8048f88d610"/>

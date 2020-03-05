@@ -1625,7 +1625,7 @@
 			<Metadata name="InformationRegister.ТекстовоеСообщениеНаЧеке.Dimension.НомСтроки" id="a50de1d8-7762-4150-8c56-6b41edae342a"/>
 			<Metadata name="InformationRegister.ТекстовоеСообщениеНаЧеке.Resource.ЗаглавиеСообщения" id="f4921808-02b2-4a25-bcad-2ffa2ecfbe73"/>
 		</Metadata>
-		<Metadata name="InformationRegister.УсловияПоАкции" id="6d08df9d-4c28-4e6b-bb3d-597023f3eee6" configVersion="cc4b41fb7a3397439865ac86f83b696100000000">
+		<Metadata name="InformationRegister.УсловияПоАкции" id="6d08df9d-4c28-4e6b-bb3d-597023f3eee6" configVersion="96329b651c16c34ca545812814c48e7200000000">
 			<Metadata name="InformationRegister.УсловияПоАкции.Attribute.ВыдаетьсяПодарочныйФонд" id="092b519a-2785-404a-ad50-c201b5f8879f"/>
 			<Metadata name="InformationRegister.УсловияПоАкции.Resource.СкидкаСумма" id="1a8b1d94-659e-4f17-9974-93945f0ab9c5"/>
 			<Metadata name="InformationRegister.УсловияПоАкции.Resource.СкидкаПроцент" id="1a923c82-28ee-418b-a027-bada6fdb6543"/>
@@ -1636,7 +1636,9 @@
 			<Metadata name="InformationRegister.УсловияПоАкции.Resource.КоличествоГруппВыдачи" id="468e93b6-fa9c-435f-95a4-a260e6420b3a"/>
 			<Metadata name="InformationRegister.УсловияПоАкции.Dimension.ТестАкцииНаКассе" id="485e57c0-7985-47d6-a536-7758ce0c4381"/>
 			<Metadata name="InformationRegister.УсловияПоАкции.Resource.СуммаЗакупки" id="56401a31-0d89-4bde-a737-3c05cffe7dcb"/>
+			<Metadata name="InformationRegister.УсловияПоАкции.Resource.ВидЦеныДляОпределенияСкидкиНаГруппуВыдачи" id="5e545643-ecbd-443d-af90-4ed42e2c53bc"/>
 			<Metadata name="InformationRegister.УсловияПоАкции.Resource.ГраницаПримАкции_СуммаЧека" id="667326ec-0d20-41f0-bac6-5c89f35d4f50"/>
+			<Metadata name="InformationRegister.УсловияПоАкции.Resource.ВидЦеныДляОпределенияСкидкиНаВесьЧек" id="672d699d-1819-49c6-9619-8f72867a1741"/>
 			<Metadata name="InformationRegister.УсловияПоАкции.Attribute.ИгнорироватьВсеАкции" id="744e99a9-5a93-4f9b-99f6-33c805158dcf"/>
 			<Metadata name="InformationRegister.УсловияПоАкции.Attribute.БлокЛистовок_Код" id="783f2238-74d9-423d-8ab7-aa9c68d3482f"/>
 			<Metadata name="InformationRegister.УсловияПоАкции.Resource.КоличествоПримененийАкции" id="79555372-3ed4-4683-b6b1-6fb11c2a28a7"/>
@@ -1654,8 +1656,8 @@
 			<Metadata name="InformationRegister.УсловияПоАкции.Dimension.НомерАкции" id="f8b724ff-b6d6-4762-a0f6-03e39006933a"/>
 			<Metadata name="InformationRegister.УсловияПоАкции.Resource.ГраницаПримАкции_ПроцентЧека" id="f9a82a6f-5a59-41aa-9db4-61c8f476f645"/>
 		</Metadata>
-		<Metadata name="InformationRegister.УсловияПоАкции.Form.ФормаСписка" id="bfcd0198-16b0-49d0-b3bb-3563a6b6d5e2" configVersion="63bf228cf90eb64e80c608906109aceb00000000"/>
-		<Metadata name="InformationRegister.УсловияПоАкции.Form.ФормаСписка.Form" id="bfcd0198-16b0-49d0-b3bb-3563a6b6d5e2.0" configVersion="72dcbf6642401742a305ed4a78b2a58e00000000"/>
+		<Metadata name="InformationRegister.УсловияПоАкции.Form.ФормаСписка" id="bfcd0198-16b0-49d0-b3bb-3563a6b6d5e2" configVersion="2b9f99ab1e172942805a3c895539cacb00000000"/>
+		<Metadata name="InformationRegister.УсловияПоАкции.Form.ФормаСписка.Form" id="bfcd0198-16b0-49d0-b3bb-3563a6b6d5e2.0" configVersion="67b367e291ce1f4bb64475d29f85672800000000"/>
 		<Metadata name="InformationRegister.ЭлектронныеПС" id="4d4d67ba-b5c6-4c4d-9b1e-e04392d6fca4" configVersion="31ed99ca5b4e784497819acfc2b02b3a00000000">
 			<Metadata name="InformationRegister.ЭлектронныеПС.Dimension.ШК_ПС" id="8d61e20c-7de9-4bd5-a7a4-044b3c6dac54"/>
 			<Metadata name="InformationRegister.ЭлектронныеПС.Resource.ОтправленНаBPMonline" id="f86c0290-ed09-4ae9-8ef3-20e314adaedf"/>

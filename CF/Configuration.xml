@@ -707,6 +707,7 @@
 			<CommonForm>ФормаОПрограмме</CommonForm>
 			<CommonForm>ФормаПолученияДанныхПоВебСервису</CommonForm>
 			<CommonForm>ХОтчет</CommonForm>
+			<CommonForm>ФормаПредупреждение</CommonForm>
 			<Catalog>ВидыОплатЧекаККМ</Catalog>
 			<Catalog>КассыККМ</Catalog>
 			<Catalog>Подразделения</Catalog>

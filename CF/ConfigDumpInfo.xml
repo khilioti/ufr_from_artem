@@ -104,8 +104,8 @@
 		<Metadata name="CommonModule.ЗакрытиеСмены.Module" id="879a5c99-14aa-4890-985c-6bb8f0dcc4c8.0" configVersion="29a0b344d25df24b916d56e6b283745500000000"/>
 		<Metadata name="CommonModule.Логирование" id="c96f61e1-67d5-47ab-9de8-15b6ff2570cf" configVersion="19495e61bb24bd4ba91fcf2f5fe70ef300000000"/>
 		<Metadata name="CommonModule.Логирование.Module" id="c96f61e1-67d5-47ab-9de8-15b6ff2570cf.0" configVersion="6c6b32821fe8ca4892807b6469c4dfbc00000000"/>
-		<Metadata name="CommonModule.МеханизмыСкидокИАкций" id="e63c0b2d-4235-447b-9d39-d00bfada2a90" configVersion="1238577e73cc484fadf6dfbfe7af95a300000000"/>
-		<Metadata name="CommonModule.МеханизмыСкидокИАкций.Module" id="e63c0b2d-4235-447b-9d39-d00bfada2a90.0" configVersion="7d9108adb4a58e4abace4a98a7a9feba00000000"/>
+		<Metadata name="CommonModule.МеханизмыСкидокИАкций" id="e63c0b2d-4235-447b-9d39-d00bfada2a90" configVersion="40a32e93638de041b625a83a9dd5c6eb00000000"/>
+		<Metadata name="CommonModule.МеханизмыСкидокИАкций.Module" id="e63c0b2d-4235-447b-9d39-d00bfada2a90.0" configVersion="0d61193385f9b14e8029057a56808c0400000000"/>
 		<Metadata name="CommonModule.МодульTRASSIR" id="4ce56705-e0eb-4663-bef6-6570263bbb27" configVersion="6a39c6c785c97645a0401de9c6f48bec00000000"/>
 		<Metadata name="CommonModule.МодульTRASSIR.Module" id="4ce56705-e0eb-4663-bef6-6570263bbb27.0" configVersion="3aed998693ec4646af9251583bcbe18000000000"/>
 		<Metadata name="CommonModule.ОбновлениеБД" id="678d6826-357b-4921-8bf9-d3630a57314e" configVersion="98acca679aee3a43ae96f3b572b6843700000000"/>

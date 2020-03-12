@@ -770,6 +770,13 @@
 		</right>
 	</object>
 	<object>
+		<name>CommonForm.ФормаПредупреждение</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Constant.Розница_КодКассы</name>
 		<right>
 			<name>Read</name>

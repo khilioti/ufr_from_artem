@@ -148,6 +148,13 @@
 		</right>
 	</object>
 	<object>
+		<name>CommonForm.ФормаПредупреждение</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Constant.ФР_СниматьКопиюZОтчета</name>
 		<right>
 			<name>Read</name>

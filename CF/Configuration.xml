@@ -32,11 +32,11 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Управление фискальными регистраторами для Украины, редакция 2.0.0.512 от 07.03.2020 г.</v8:content>
+					<v8:content>Управление фискальными регистраторами для Украины, редакция 2.0.0.513 от 19.03.2020 г.</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>uk</v8:lang>
-					<v8:content>Управління фіскальними реєстраторами для України, редакція 2.0.0.512 від 07.03.2020 р.</v8:content>
+					<v8:content>Управління фіскальними реєстраторами для України, редакція 2.0.0.513 від 19.03.2020 р.</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -51,7 +51,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.ПолныеПрава</xr:Item>
 			</DefaultRoles>
 			<Vendor>Стиль Д</Vendor>
-			<Version>2.0.0.512</Version>
+			<Version>2.0.0.513</Version>
 			<UpdateCatalogAddress>http://update.prostor.ua</UpdateCatalogAddress>
 			<IncludeHelpInContents>true</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -178,25 +178,25 @@
 			<BriefInformation>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Управление фискальными регистраторами для Украины, редакция 2.0.0.512 от 07.03.2020 г.</v8:content>
+					<v8:content>Управление фискальными регистраторами для Украины, редакция 2.0.0.513 от 19.03.2020 г.</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>uk</v8:lang>
-					<v8:content>Управління фіскальними реєстраторами для України, редакція 2.0.0.512 від 07.03.2020 р.</v8:content>
+					<v8:content>Управління фіскальними реєстраторами для України, редакція 2.0.0.513 від 19.03.2020 р.</v8:content>
 				</v8:item>
 			</BriefInformation>
 			<DetailedInformation>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Управление фискальными регистраторами для Украины, редакция 2.0.0.512
+					<v8:content>Управление фискальными регистраторами для Украины, редакция 2.0.0.513
 Разработка конфигурации: "Стиль Д", 2012 - 2020
-07.03.2020 г.</v8:content>
+19.03.2020 г.</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>uk</v8:lang>
-					<v8:content>Управління фіскальними реєстраторами для України", редакція 2.0.0.512
+					<v8:content>Управління фіскальними реєстраторами для України", редакція 2.0.0.513
 Розробка конфігурації: "Стиль Д", 2012 - 2020
-07.03.2020 р.
+19.03.2020 р.
 </v8:content>
 				</v8:item>
 			</DetailedInformation>

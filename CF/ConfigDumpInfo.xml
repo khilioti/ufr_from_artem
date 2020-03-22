@@ -1320,13 +1320,14 @@
 			<Metadata name="Enum.СостояниеBPMonline.EnumValue.НеЗаписан" id="af44cf1d-900b-4a40-8cfc-33f27c84f0be"/>
 			<Metadata name="Enum.СостояниеBPMonline.EnumValue.Офлайн" id="bf5837e6-5831-40f4-8b63-a709220cb235"/>
 		</Metadata>
-		<Metadata name="Enum.СостояниеЧека" id="37341123-5252-4300-bad6-37e0cd644055" configVersion="1f22d4250506e040a046637bf3ae62b200000000">
+		<Metadata name="Enum.СостояниеЧека" id="37341123-5252-4300-bad6-37e0cd644055" configVersion="65e36eda45c69247a9b9299d19c3de8c00000000">
 			<Metadata name="Enum.СостояниеЧека.EnumValue.Аварийный_НеПробитПоФР" id="0f319014-ad52-43a3-a7db-038531670c93"/>
 			<Metadata name="Enum.СостояниеЧека.EnumValue.Аварийный_АннулированПоТерминалу" id="21605cdd-01d8-4e84-99d2-6fd411b6ca30"/>
 			<Metadata name="Enum.СостояниеЧека.EnumValue.Аварийный" id="27415665-6de3-410f-82ad-9f340e259011"/>
 			<Metadata name="Enum.СостояниеЧека.EnumValue.Аварийный_ЧастичноПробитПоФР" id="536bf878-5d24-4aae-9d9e-aa3177006026"/>
 			<Metadata name="Enum.СостояниеЧека.EnumValue.Отменен" id="72b534fa-3eee-4dff-8c6f-ba767b8743c4"/>
 			<Metadata name="Enum.СостояниеЧека.EnumValue.Закрыт" id="923e5c76-2c2f-42d9-b176-4f4946461799"/>
+			<Metadata name="Enum.СостояниеЧека.EnumValue.Отложенный" id="95f8ee97-b51b-4b9a-9d18-d5092a2e4dba"/>
 			<Metadata name="Enum.СостояниеЧека.EnumValue.Аварийный_ПробитПоФР" id="e4065a52-a955-4522-a35d-383139b03a13"/>
 			<Metadata name="Enum.СостояниеЧека.EnumValue.Аварийный_ПробитТерминалНеПробитПоФР" id="e8ee119b-5265-4276-ad59-19f92033de30"/>
 			<Metadata name="Enum.СостояниеЧека.EnumValue.Новый" id="ec89e538-e88b-47ac-a6b1-2d84cb0bb086"/>

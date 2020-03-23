@@ -86,8 +86,8 @@
 		<Metadata name="CommonForm.ФормаКонстантФискальногоРегистратора.Form" id="b2edaf49-b937-4cdd-a824-5596396117f8.0" configVersion="262c115fcff2054baaad12bb81feba3800000000"/>
 		<Metadata name="CommonForm.ФормаОПрограмме" id="9f44f1ba-8690-4677-aabc-a74479920939" configVersion="014341635261cc4ab761317e3b3b906200000000"/>
 		<Metadata name="CommonForm.ФормаОПрограмме.Form" id="9f44f1ba-8690-4677-aabc-a74479920939.0" configVersion="24e74207657d484bbf4b8474f206d3a500000000"/>
-		<Metadata name="CommonForm.ФормаПолученияДанныхПоВебСервису" id="0fdcd988-6af6-43e8-8f09-80657a87d37f" configVersion="074fce848d429347a17b859d15368b4a00000000"/>
-		<Metadata name="CommonForm.ФормаПолученияДанныхПоВебСервису.Form" id="0fdcd988-6af6-43e8-8f09-80657a87d37f.0" configVersion="084a060533a57342b3d7d4f8e350b8c400000000"/>
+		<Metadata name="CommonForm.ФормаПолученияДанныхПоВебСервису" id="0fdcd988-6af6-43e8-8f09-80657a87d37f" configVersion="ac87113a58dd9742b44afce4a7d35d3a00000000"/>
+		<Metadata name="CommonForm.ФормаПолученияДанныхПоВебСервису.Form" id="0fdcd988-6af6-43e8-8f09-80657a87d37f.0" configVersion="925e75d4b84e9a478741b0c2c7b9574d00000000"/>
 		<Metadata name="CommonForm.ФормаПредупреждение" id="74e5a6db-8cac-4508-b4f0-57a2da6d3c1d" configVersion="4f8ce17eda3c6e45bb76acedbb03940e00000000"/>
 		<Metadata name="CommonForm.ФормаПредупреждение.Form" id="74e5a6db-8cac-4508-b4f0-57a2da6d3c1d.0" configVersion="96f240dd81cbcd4b9e80e4da70ccb25d00000000"/>
 		<Metadata name="CommonForm.ХОтчет" id="033d259c-ba95-4744-862f-7eb6abc92a65" configVersion="94cbdf330e06d44f82ab9c66a62de8d900000000"/>

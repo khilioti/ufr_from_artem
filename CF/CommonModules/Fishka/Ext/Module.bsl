@@ -6,12 +6,18 @@
 	
 	// Таблици для хранения результатов после запросов BPMonline
 	FISHKA_productListOUT = Новый ТаблицаЗначений;
-	FISHKA_productListOUT.Колонки.Добавить("code");	
+	FISHKA_productListOUT.Колонки.Добавить("productCode");	// Добавить("code");
 	FISHKA_productListOUT.Колонки.Добавить("quantity");
 	FISHKA_productListOUT.Колонки.Добавить("amount");
 	FISHKA_productListOUT.Колонки.Добавить("finalDiscountAmount");
 	FISHKA_productListOUT.Колонки.Добавить("finalAmount");
 	FISHKA_productListOUT.Колонки.Добавить("paidByPointsDiscount");
+	// Дьяченко
+	FISHKA_productListOUT.Колонки.Добавить("code");
+	FISHKA_productListOUT.Колонки.Добавить("source");
+	FISHKA_productListOUT.Колонки.Добавить("name");
+
+	
 	
 	ПараметрыFISHKA = Новый Структура;
 	
@@ -199,19 +205,31 @@
 			Если СкидкаПоСтроке = Неопределено Тогда 
 				Продолжить;
 			КонецЕсли;
-			НоваяСтрока	= ПараметрыFISHKA.FISHKA_productListOUT.Добавить();
-			НоваяСтрока.code = стр.Получить("productCode");
-			НоваяСтрока.quantity = стр.Получить("quantity");
+			//НоваяСтрока	= ПараметрыFISHKA.FISHKA_productListOUT.Добавить();
+			//НоваяСтрока.code = стр.Получить("productCode");
+			//НоваяСтрока.quantity = стр.Получить("quantity");
 			//Кудря 09.09.19 скидки по строке с видом BC
 			//НоваяСтрока.finalDiscountAmount	= СкидкаПоСтроке[0].Получить("amount");
 			суммаСкидки = 0;
 			Для Каждого скидка Из СкидкаПоСтроке Цикл
-				ВидСкидки = скидка.Получить("source");
+				//ВидСкидки = скидка.Получить("source");
 				//Если ВидСкидки = "BC" Тогда
 					//суммаСкидки = скидка.Получить("amount");
 				//	Прервать;
 				//КонецЕсли;
+				//РазмерСкидки = скидка.Получить("amount");
+				//суммаСкидки  = суммаСкидки + РазмерСкидки;
+				// Дьяченко
+				НоваяСтрока	= ПараметрыFISHKA.FISHKA_productListOUT.Добавить();
+				ВидСкидки = скидка.Получить("source");
 				РазмерСкидки = скидка.Получить("amount");
+				
+				НоваяСтрока.productCode = стр.Получить("productCode");
+				НоваяСтрока.quantity = стр.Получить("quantity");
+				НоваяСтрока.amount = РазмерСкидки;
+				НоваяСтрока.code = скидка.Получить("code");
+				НоваяСтрока.source = ВидСкидки;
+				НоваяСтрока.name = скидка.Получить("name");
 				суммаСкидки  = суммаСкидки + РазмерСкидки;
 			КонецЦикла;
 			НоваяСтрока.finalDiscountAmount	= суммаСкидки;

@@ -1128,7 +1128,7 @@
 		<Metadata name="DataProcessor.ТО_ЭмуляторФР.ObjectModule" id="77711d01-f130-4004-970d-25826485fb72.0" configVersion="b46da425ba07c84fa6d9f2e631555e9b00000000"/>
 		<Metadata name="DataProcessor.ТО_ЭмуляторФР.Template.ЧекWinPrint" id="d4b52589-413c-4ca5-a986-218dcc170bc8" configVersion="8d5fef7be4c9444c91d5a93d1a289e4500000000"/>
 		<Metadata name="DataProcessor.ТО_ЭмуляторФР.Template.ЧекWinPrint.Template" id="d4b52589-413c-4ca5-a986-218dcc170bc8.0" configVersion="7e7fbf94fb8379419e25c9d1d675b32200000000"/>
-		<Metadata name="Document.ЧекККМ" id="f6363eb5-b03e-4051-b1aa-b62f06ef4575" configVersion="075d8db91456274185289994376f94fc00000000">
+		<Metadata name="Document.ЧекККМ" id="f6363eb5-b03e-4051-b1aa-b62f06ef4575" configVersion="5bc34177305ac0459c68ea408650f8e800000000">
 			<Metadata name="Document.ЧекККМ.Attribute.Общ_Промокод" id="093b7a3d-cc12-45a6-9e99-19dca99a0b10"/>
 			<Metadata name="Document.ЧекККМ.TabularSection.ТЧ_ЖурналСкидок" id="09b3ac42-7f39-4875-a221-deb07cd8003a"/>
 			<Metadata name="Document.ЧекККМ.Attribute.НомерЧекаККМ" id="09b959d2-4238-4ac7-ab5e-3d0705458610"/>
@@ -1236,11 +1236,11 @@
 			<Metadata name="Document.ЧекККМ.Attribute.СуммаПоЧекуККМ" id="fdeb3c1c-aaca-4f18-94ce-bbd6449e1157"/>
 			<Metadata name="Document.ЧекККМ.TabularSection.ТЧ_ДвиженияПС" id="fe45adbd-fa36-4ba9-9de2-2d79d026c577"/>
 		</Metadata>
-		<Metadata name="Document.ЧекККМ.Form.ФормаДокумента" id="0efd819e-7b78-4041-88ac-3f932f564c32" configVersion="ac656e5374ff5847939f0b716523f4cb00000000"/>
-		<Metadata name="Document.ЧекККМ.Form.ФормаДокумента.Form" id="0efd819e-7b78-4041-88ac-3f932f564c32.0" configVersion="48b10fe55c9499438653569b406dd7f800000000"/>
+		<Metadata name="Document.ЧекККМ.Form.ФормаДокумента" id="0efd819e-7b78-4041-88ac-3f932f564c32" configVersion="18608ab44aaab84382032456c8c8cb8400000000"/>
+		<Metadata name="Document.ЧекККМ.Form.ФормаДокумента.Form" id="0efd819e-7b78-4041-88ac-3f932f564c32.0" configVersion="4f2c597814909d4db058eb9a1c58dea600000000"/>
 		<Metadata name="Document.ЧекККМ.Form.ФормаСписка" id="17728ae4-81fb-477f-ab08-8c9169144583" configVersion="c5e29b4fc3f20a47b19fb9a6dcd4756a00000000"/>
 		<Metadata name="Document.ЧекККМ.Form.ФормаСписка.Form" id="17728ae4-81fb-477f-ab08-8c9169144583.0" configVersion="bc2250252b326c408e6af958e5dee1e200000000"/>
-		<Metadata name="Document.ЧекККМ.ObjectModule" id="f6363eb5-b03e-4051-b1aa-b62f06ef4575.0" configVersion="e85144d0a313b047adfcfbe30a59ee5400000000"/>
+		<Metadata name="Document.ЧекККМ.ObjectModule" id="f6363eb5-b03e-4051-b1aa-b62f06ef4575.0" configVersion="efb9fb293d563140a5879255624f1e1e00000000"/>
 		<Metadata name="Enum.FISHKA_СостояниеЧекаККМ" id="4f9ba6da-2692-4950-a831-93ce6446031d" configVersion="9877fbe0f8fcb54ea8b615ca675460e600000000">
 			<Metadata name="Enum.FISHKA_СостояниеЧекаККМ.EnumValue.Записан" id="05355b81-5061-41fa-9749-e8a0d82d5651"/>
 			<Metadata name="Enum.FISHKA_СостояниеЧекаККМ.EnumValue.ПросканированнаБК" id="9ecec02d-02ac-46ea-bb64-0acf8b419ce7"/>

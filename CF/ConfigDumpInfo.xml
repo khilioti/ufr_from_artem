@@ -900,7 +900,7 @@
 		<Metadata name="DataProcessor.КонсольЗапросов.Form.ФормаПараметров.Form" id="e291ac96-9767-4ef0-a528-e3ff3a2b3b78.0" configVersion="6da61c7db21a4642a2c8cd2e1f892f1b00000000"/>
 		<Metadata name="DataProcessor.КонсольЗапросов.Form.ФормаПараметров.Help" id="e291ac96-9767-4ef0-a528-e3ff3a2b3b78.1" configVersion="38027165596f064188bdf9c828987b4000000000"/>
 		<Metadata name="DataProcessor.КонсольЗапросов.Help" id="c379d82d-8c2e-4beb-b32e-932c354218db.1" configVersion="712fd9f036e35f438b5b7c4c6c34cbf300000000"/>
-		<Metadata name="DataProcessor.РМК" id="57ec1e9f-b42c-4d78-bc16-af4c90b7b2cf" configVersion="07efa08b6eabd0449ee1caf30211d63100000000">
+		<Metadata name="DataProcessor.РМК" id="57ec1e9f-b42c-4d78-bc16-af4c90b7b2cf" configVersion="9ac225d410420b4a96f34301541bb94900000000">
 			<Metadata name="DataProcessor.РМК.TabularSection.Продажа.Attribute.СуммаБезСкидки" id="02328727-53c9-492c-bf61-8bc5d338f6f1"/>
 			<Metadata name="DataProcessor.РМК.TabularSection.ТЧ_ЖурналСкидок.Attribute.НомерАкции" id="04f89cdf-7c92-4492-84ed-7e26f8b418cd"/>
 			<Metadata name="DataProcessor.РМК.TabularSection.Продажа.Attribute.СуммаСкидки" id="0533f63d-474a-4534-b8bb-baf77ea509e7"/>
@@ -934,7 +934,7 @@
 			<Metadata name="DataProcessor.РМК.TabularSection.Продажа.Attribute.Ануляция" id="406cece7-3857-4469-b6c0-a528f04b52e7"/>
 			<Metadata name="DataProcessor.РМК.TabularSection.Возвраты.Attribute.Штрихкод" id="414c0b39-473e-4491-a896-3560729f57ec"/>
 			<Metadata name="DataProcessor.РМК.TabularSection.ТЧ_ДвиженияПС.Attribute.СерийныйНомерФР" id="45cd0ca5-930c-4cb0-9167-625a51069eca"/>
-			<Metadata name="DataProcessor.РМК.TabularSection.ТЧ_ЖурналСкидок.Attribute.ИДАкцииBPM" id="462e75f7-d55f-433f-9504-05c10ce4754e"/>
+			<Metadata name="DataProcessor.РМК.TabularSection.ТЧ_ЖурналСкидок.Attribute.ID_акции" id="462e75f7-d55f-433f-9504-05c10ce4754e"/>
 			<Metadata name="DataProcessor.РМК.TabularSection.Продажа.Attribute.Сумма" id="481eafc2-31ef-478e-977c-f6e3d304194b"/>
 			<Metadata name="DataProcessor.РМК.TabularSection.Продажа.Attribute.Цена" id="4a15c3ec-7d44-4aa4-80bc-63623e4b9ef5"/>
 			<Metadata name="DataProcessor.РМК.TabularSection.Продажа.Attribute.ШК_ДКО" id="4b6559df-eeae-44b2-9193-4ae9bfb71b03"/>
@@ -945,6 +945,7 @@
 			<Metadata name="DataProcessor.РМК.TabularSection.Продажа.Attribute.ЦенаБезСкидки" id="52e34205-6317-4f73-92a3-601b3e622d68"/>
 			<Metadata name="DataProcessor.РМК.TabularSection.ОстаткиСитемыЛоялности.Attribute.CloseDate" id="580ee000-d88e-441a-8708-a6378461f5a0"/>
 			<Metadata name="DataProcessor.РМК.TabularSection.Возвраты.Attribute.СкидкаБК" id="590976b6-fe30-44b5-815b-870f2eb4ab8f"/>
+			<Metadata name="DataProcessor.РМК.TabularSection.ТЧ_ЖурналСкидок.Attribute.АкционнаяСистема" id="5bd8a643-2dd4-4158-9141-d238d082b16d"/>
 			<Metadata name="DataProcessor.РМК.TabularSection.Продажа.Attribute.СуммаОплаты_Нал" id="5c4855c8-7c20-4851-878b-3e2d767cb82f"/>
 			<Metadata name="DataProcessor.РМК.TabularSection.Скидки.Attribute.СкидкаСумма" id="5f53ae2e-b9d2-4d58-97d4-3d0aefdb194f"/>
 			<Metadata name="DataProcessor.РМК.TabularSection.Скидки.Attribute.СкидкаПроцент" id="61f63ac4-c1ca-4e5b-a3df-55c28d995a24"/>

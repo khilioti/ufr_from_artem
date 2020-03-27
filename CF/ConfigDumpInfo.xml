@@ -1249,9 +1249,10 @@
 			<Metadata name="Enum.FISHKA_СостояниеЧекаККМ.EnumValue.Офлайн" id="becbfe9f-7c85-444a-87a7-bdae8ca0a030"/>
 			<Metadata name="Enum.FISHKA_СостояниеЧекаККМ.EnumValue.Отменен" id="c078ef1e-96a3-413b-8136-1b313a222a7d"/>
 		</Metadata>
-		<Metadata name="Enum.АкционнаяСистема" id="6311a10b-030e-48d3-85c6-63630742480d" configVersion="35b86606b7dde94aaf0aab6349a1a02300000000">
+		<Metadata name="Enum.АкционнаяСистема" id="6311a10b-030e-48d3-85c6-63630742480d" configVersion="b60271467085044593112dce7554c45900000000">
 			<Metadata name="Enum.АкционнаяСистема.EnumValue.BPMonline" id="1b2ffc35-212f-4ba0-a9e9-8b8cfbcecaea"/>
 			<Metadata name="Enum.АкционнаяСистема.EnumValue.Простор" id="25a325d7-257b-443e-9ba9-e917cd52636e"/>
+			<Metadata name="Enum.АкционнаяСистема.EnumValue.Fishka" id="9cd93e33-bb04-4728-8dbc-c8ad2e2f45cc"/>
 		</Metadata>
 		<Metadata name="Enum.ВидДействияРМК" id="2c6e1875-9be5-41e3-ad0e-b78090af4e9c" configVersion="19acd6a48bb6644382c6d955c6ef9d8600000000">
 			<Metadata name="Enum.ВидДействияРМК.EnumValue.Чек" id="1421dee6-bdb9-4251-87fa-7c6a7c13c9cd"/>

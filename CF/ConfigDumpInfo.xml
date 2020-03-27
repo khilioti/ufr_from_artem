@@ -112,8 +112,8 @@
 		<Metadata name="CommonModule.ОбновлениеБД.Module" id="678d6826-357b-4921-8bf9-d3630a57314e.0" configVersion="ec82f5f7d417ec48a7699e6fb50ef94200000000"/>
 		<Metadata name="CommonModule.ОбработкаТабличныхЧастей" id="eafb6798-2776-42ec-b6e0-40a3c0316952" configVersion="b83f885ecbf12747910e8f0b3378340600000000"/>
 		<Metadata name="CommonModule.ОбработкаТабличныхЧастей.Module" id="eafb6798-2776-42ec-b6e0-40a3c0316952.0" configVersion="3a070f463f11784184007d82e9d6498c00000000"/>
-		<Metadata name="CommonModule.ОбщегоНазначения" id="ee2b6679-e091-4198-ade5-e3419df3a746" configVersion="9f3e2db522288549bd88f7ab97ee4ab900000000"/>
-		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="ee2b6679-e091-4198-ade5-e3419df3a746.0" configVersion="10eab61482820b45baaeb022390afbc500000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения" id="ee2b6679-e091-4198-ade5-e3419df3a746" configVersion="ea32b8778bb087458e07b7f541f6367100000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="ee2b6679-e091-4198-ade5-e3419df3a746.0" configVersion="71b4bcb965a8244d8d8bf86a6650aafb00000000"/>
 		<Metadata name="CommonModule.ОткрытиеСмены" id="9f0d5a88-c610-4134-910b-17e5684b0051" configVersion="f0aac6526d40b94a8ed85e051f41a5bb00000000"/>
 		<Metadata name="CommonModule.ОткрытиеСмены.Module" id="9f0d5a88-c610-4134-910b-17e5684b0051.0" configVersion="0c0f183c97e69e439c807095f3182ad600000000"/>
 		<Metadata name="CommonModule.РаботаСПС" id="02639db9-40bf-4871-8e01-5956fb5fa1fe" configVersion="b5e2fb2884e0ae4fae93bc9fce135ad200000000"/>

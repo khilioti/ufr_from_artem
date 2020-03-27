@@ -1129,7 +1129,7 @@
 		<Metadata name="DataProcessor.ТО_ЭмуляторФР.ObjectModule" id="77711d01-f130-4004-970d-25826485fb72.0" configVersion="b46da425ba07c84fa6d9f2e631555e9b00000000"/>
 		<Metadata name="DataProcessor.ТО_ЭмуляторФР.Template.ЧекWinPrint" id="d4b52589-413c-4ca5-a986-218dcc170bc8" configVersion="8d5fef7be4c9444c91d5a93d1a289e4500000000"/>
 		<Metadata name="DataProcessor.ТО_ЭмуляторФР.Template.ЧекWinPrint.Template" id="d4b52589-413c-4ca5-a986-218dcc170bc8.0" configVersion="7e7fbf94fb8379419e25c9d1d675b32200000000"/>
-		<Metadata name="Document.ЧекККМ" id="f6363eb5-b03e-4051-b1aa-b62f06ef4575" configVersion="5bc34177305ac0459c68ea408650f8e800000000">
+		<Metadata name="Document.ЧекККМ" id="f6363eb5-b03e-4051-b1aa-b62f06ef4575" configVersion="1c31130b480c5a478a3720cd4b80e46b00000000">
 			<Metadata name="Document.ЧекККМ.Attribute.Общ_Промокод" id="093b7a3d-cc12-45a6-9e99-19dca99a0b10"/>
 			<Metadata name="Document.ЧекККМ.TabularSection.ТЧ_ЖурналСкидок" id="09b3ac42-7f39-4875-a221-deb07cd8003a"/>
 			<Metadata name="Document.ЧекККМ.Attribute.НомерЧекаККМ" id="09b959d2-4238-4ac7-ab5e-3d0705458610"/>
@@ -1147,6 +1147,7 @@
 			<Metadata name="Document.ЧекККМ.Attribute.УникальныйНомерЧекаККМ" id="357a020f-15c0-464e-bf22-d7b801e866b2"/>
 			<Metadata name="Document.ЧекККМ.Attribute.BPMonline_БонусыВсегоДоступно" id="3d81d4d8-9971-427b-be4f-271f25159c0a"/>
 			<Metadata name="Document.ЧекККМ.TabularSection.ТЧ_СобытияПоЧеку" id="3db4bb43-34f6-482d-a424-5bb6dd34c881"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.ТЧ_ЖурналСкидок.Attribute.АкционнаяСистема" id="3ec8d514-be6b-4a93-87c7-a3fe7d25da09"/>
 			<Metadata name="Document.ЧекККМ.Attribute.СуммаОплаты_Ваучер" id="3f901944-9c8e-4202-b4e9-2bc3e862c579"/>
 			<Metadata name="Document.ЧекККМ.TabularSection.ТЧ_ДвиженияПС.Attribute.ИнфоКарта_ШК" id="41dbc884-72a5-440c-9f6d-fd150d5b5705"/>
 			<Metadata name="Document.ЧекККМ.Attribute.КассаККМ" id="42b1f9ab-c34e-4798-a8ac-dc8d3493966b"/>
@@ -1224,7 +1225,7 @@
 			<Metadata name="Document.ЧекККМ.Attribute.Возврат_ЧекККМ" id="df13900d-1a48-483e-bfc1-e352336de15c"/>
 			<Metadata name="Document.ЧекККМ.TabularSection.ТЧ_ДвиженияПС.Attribute.ШК_ПС" id="e294ff90-6d10-4172-bfd3-2f8ffc827b96"/>
 			<Metadata name="Document.ЧекККМ.Attribute.НомерZОтчета" id="e9737c92-1f8e-4390-8c73-9e577f890d7b"/>
-			<Metadata name="Document.ЧекККМ.TabularSection.ТЧ_ЖурналСкидок.Attribute.ИДАкцииBPM" id="ed598449-0814-4150-9456-fd21f8b2a445"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.ТЧ_ЖурналСкидок.Attribute.ID_акции" id="ed598449-0814-4150-9456-fd21f8b2a445"/>
 			<Metadata name="Document.ЧекККМ.Attribute.BPMonline_БонусыСписанные" id="edcc90a4-5f14-49ee-8ee2-6b698de62d21"/>
 			<Metadata name="Document.ЧекККМ.TabularSection.ТЧ_ЖурналСкидок.Attribute.БлокЛистовок_Код" id="f174a85a-67ed-4531-b767-f5bf8767f73e"/>
 			<Metadata name="Document.ЧекККМ.Attribute.BPMonline_БонусыНачисленные" id="f272c809-635a-40f2-877f-1e9ff1c27092"/>

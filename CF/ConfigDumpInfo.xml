@@ -92,8 +92,8 @@
 		<Metadata name="CommonForm.ФормаПредупреждение.Form" id="74e5a6db-8cac-4508-b4f0-57a2da6d3c1d.0" configVersion="96f240dd81cbcd4b9e80e4da70ccb25d00000000"/>
 		<Metadata name="CommonForm.ХОтчет" id="033d259c-ba95-4744-862f-7eb6abc92a65" configVersion="94cbdf330e06d44f82ab9c66a62de8d900000000"/>
 		<Metadata name="CommonForm.ХОтчет.Form" id="033d259c-ba95-4744-862f-7eb6abc92a65.0" configVersion="d93189ad35ead54e8aa4aec15a1b031600000000"/>
-		<Metadata name="CommonModule.BPM" id="26d60f7b-8af6-4a25-bfe3-efc086f975ca" configVersion="da5463a545a83947acb27de58b8c4a7000000000"/>
-		<Metadata name="CommonModule.BPM.Module" id="26d60f7b-8af6-4a25-bfe3-efc086f975ca.0" configVersion="4b4819793399944cbf0ab6c1201eab1f00000000"/>
+		<Metadata name="CommonModule.BPM" id="26d60f7b-8af6-4a25-bfe3-efc086f975ca" configVersion="1d8f5a35dfc431409073c0c346e98ea300000000"/>
+		<Metadata name="CommonModule.BPM.Module" id="26d60f7b-8af6-4a25-bfe3-efc086f975ca.0" configVersion="f28df7b4ba30004c8960e5e6860f852000000000"/>
 		<Metadata name="CommonModule.Fishka" id="9a3ba9ae-927c-4da0-a745-037f5dace84f" configVersion="6900211e2507804088f479383fe1518f00000000"/>
 		<Metadata name="CommonModule.Fishka.Module" id="9a3ba9ae-927c-4da0-a745-037f5dace84f.0" configVersion="aa97014a9636964386b92e9b33750c6700000000"/>
 		<Metadata name="CommonModule.ВебСервисыРТК" id="f602ff4c-8cba-4113-b8da-eed7db6a5f01" configVersion="c460cd17215f7943b2fc7ecef1cb8f8b00000000"/>

@@ -1020,8 +1020,8 @@
 		<Metadata name="DataProcessor.РМК.Form.Форма_СписокЧековККМ.Form" id="acc0fa6d-7951-4a70-a7b9-459552293a1c.0" configVersion="663fe9d4df53aa408e19cc695408822c00000000"/>
 		<Metadata name="DataProcessor.РМК.Form.ФормаВозврат" id="0b663a52-e211-485c-a043-f9f275f02d28" configVersion="e0f5179731d4a749b60f66253a9000b600000000"/>
 		<Metadata name="DataProcessor.РМК.Form.ФормаВозврат.Form" id="0b663a52-e211-485c-a043-f9f275f02d28.0" configVersion="7e69f320cf34d9479835fc781ce5cf9e00000000"/>
-		<Metadata name="DataProcessor.РМК.Form.ФормаОплатыЧека" id="f5dbaad1-4302-4d85-b7fa-ec226d2ec6e0" configVersion="289c353f3faef347890383a2cfd3982f00000000"/>
-		<Metadata name="DataProcessor.РМК.Form.ФормаОплатыЧека.Form" id="f5dbaad1-4302-4d85-b7fa-ec226d2ec6e0.0" configVersion="99649e5458b0d3409db75379061fe47b00000000"/>
+		<Metadata name="DataProcessor.РМК.Form.ФормаОплатыЧека" id="f5dbaad1-4302-4d85-b7fa-ec226d2ec6e0" configVersion="ef634e352151de43a7c1ba9b6bfb3a2500000000"/>
+		<Metadata name="DataProcessor.РМК.Form.ФормаОплатыЧека.Form" id="f5dbaad1-4302-4d85-b7fa-ec226d2ec6e0.0" configVersion="d8b8999f68d4fe4f89819f72c2f5740400000000"/>
 		<Metadata name="DataProcessor.РМК.Form.ФормаПередОткрытием" id="7380e0e1-d61d-4e42-9d9f-189aeb347d89" configVersion="18302e94800208479bdcc448eac74e6700000000"/>
 		<Metadata name="DataProcessor.РМК.Form.ФормаПередОткрытием.Form" id="7380e0e1-d61d-4e42-9d9f-189aeb347d89.0" configVersion="fb2bdbafcf0a434ca29a10742e01da2f00000000"/>
 		<Metadata name="DataProcessor.РМК.Help" id="57ec1e9f-b42c-4d78-bc16-af4c90b7b2cf.1" configVersion="1d24c0a53b814a4897a87ee44098ffeb00000000"/>

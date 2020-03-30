@@ -45,7 +45,8 @@
 		<property name="ТоварГрВыдачи" type="xs:anyType"/>
 		<property name="БлокЛистовок_Код" type="xs:anyType"/>
 		<property name="БлокЛистовок_UUID_ИзУТ" type="xs:anyType"/>
-		<property name="ИДАкцииBPM" type="xs:anyType"/>
+		<property name="ID_акции" type="xs:anyType"/>
+		<property name="АкционнаяСистема" type="xs:anyType"/>
 	</objectType>
 	<objectType name="ТЧ_СобытияПоЧеку">
 		<property name="ДатаСобытия" type="xs:anyType"/>

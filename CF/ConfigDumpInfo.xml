@@ -1701,7 +1701,7 @@
 		<Metadata name="StyleItem.ШрифтВажнойНадписи" id="610c8a6e-63bd-4744-8d3e-1ebfecdadcdb" configVersion="826cf131d74a054cb33916f957ca989300000000"/>
 		<Metadata name="XDTOPackage.Обороты_ФР_1С" id="a20f72c9-4caa-47d0-9004-6074dbc5f875" configVersion="ab0a290338b36b40bbff4ea93febbdae00000000"/>
 		<Metadata name="XDTOPackage.Обороты_ФР_1С.Package" id="a20f72c9-4caa-47d0-9004-6074dbc5f875.0" configVersion="a533bb406dd9644ba178617326de213c00000000"/>
-		<Metadata name="XDTOPackage.ПакетXDTO_Розница" id="f22234d7-1a40-4bf3-bad6-b5ab386cf890" configVersion="25bf865415562b479e3cf86b9ded03c900000000"/>
-		<Metadata name="XDTOPackage.ПакетXDTO_Розница.Package" id="f22234d7-1a40-4bf3-bad6-b5ab386cf890.0" configVersion="4e4a9592bc343447a6d8e67178d7e8a400000000"/>
+		<Metadata name="XDTOPackage.ПакетXDTO_Розница" id="f22234d7-1a40-4bf3-bad6-b5ab386cf890" configVersion="21d7191df986cd4193c3aa8af25c2fee00000000"/>
+		<Metadata name="XDTOPackage.ПакетXDTO_Розница.Package" id="f22234d7-1a40-4bf3-bad6-b5ab386cf890.0" configVersion="64df85530d70f04e84a139290e06cb5700000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

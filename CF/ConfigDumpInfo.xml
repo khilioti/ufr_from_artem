@@ -96,8 +96,8 @@
 		<Metadata name="CommonModule.BPM.Module" id="26d60f7b-8af6-4a25-bfe3-efc086f975ca.0" configVersion="4b4819793399944cbf0ab6c1201eab1f00000000"/>
 		<Metadata name="CommonModule.Fishka" id="9a3ba9ae-927c-4da0-a745-037f5dace84f" configVersion="6900211e2507804088f479383fe1518f00000000"/>
 		<Metadata name="CommonModule.Fishka.Module" id="9a3ba9ae-927c-4da0-a745-037f5dace84f.0" configVersion="aa97014a9636964386b92e9b33750c6700000000"/>
-		<Metadata name="CommonModule.ВебСервисыРТК" id="f602ff4c-8cba-4113-b8da-eed7db6a5f01" configVersion="cb78f61ee8cfd44cada430713dc813a700000000"/>
-		<Metadata name="CommonModule.ВебСервисыРТК.Module" id="f602ff4c-8cba-4113-b8da-eed7db6a5f01.0" configVersion="9ba23081fa83ff449fc924eeeec438df00000000"/>
+		<Metadata name="CommonModule.ВебСервисыРТК" id="f602ff4c-8cba-4113-b8da-eed7db6a5f01" configVersion="c460cd17215f7943b2fc7ecef1cb8f8b00000000"/>
+		<Metadata name="CommonModule.ВебСервисыРТК.Module" id="f602ff4c-8cba-4113-b8da-eed7db6a5f01.0" configVersion="6b9dd959603ab042b458de04843b277700000000"/>
 		<Metadata name="CommonModule.ВебСервисыЧековаяСтатистика" id="06e7a15f-53f4-496c-a233-50e045e76d93" configVersion="56898c6abf05eb4eb4a921ca9937d4c400000000"/>
 		<Metadata name="CommonModule.ВебСервисыЧековаяСтатистика.Module" id="06e7a15f-53f4-496c-a233-50e045e76d93.0" configVersion="653785524ac4ec4887d6b8f8d8c5ce5700000000"/>
 		<Metadata name="CommonModule.ЗакрытиеСмены" id="879a5c99-14aa-4890-985c-6bb8f0dcc4c8" configVersion="e85e8bc085000149bc9af9636e19741700000000"/>
@@ -128,8 +128,8 @@
 		<Metadata name="CommonModule.ТО_Сканер.Module" id="d4501e65-bfdf-4b74-8ba1-d34927f598d4.0" configVersion="78ab8e83bb0c864295742c4941e78f6b00000000"/>
 		<Metadata name="CommonModule.ТО_Терминал" id="a7c0d07c-6816-472e-8756-92a5ddf2bb4a" configVersion="a06ad4bd6dfd2f498c529ab13d2a0c4900000000"/>
 		<Metadata name="CommonModule.ТО_Терминал.Module" id="a7c0d07c-6816-472e-8756-92a5ddf2bb4a.0" configVersion="93b8ea7ff10d564a8ba752390a879d7e00000000"/>
-		<Metadata name="CommonModule.ТО_ФР" id="f429c3f2-3383-4181-8a52-332beaeac322" configVersion="f9009a88c9cd2849ab8e324102d7563c00000000"/>
-		<Metadata name="CommonModule.ТО_ФР.Module" id="f429c3f2-3383-4181-8a52-332beaeac322.0" configVersion="ae2165e28dda974490f6af4054f6194200000000"/>
+		<Metadata name="CommonModule.ТО_ФР" id="f429c3f2-3383-4181-8a52-332beaeac322" configVersion="72b4f1df6a13fa43a0238302a449450000000000"/>
+		<Metadata name="CommonModule.ТО_ФР.Module" id="f429c3f2-3383-4181-8a52-332beaeac322.0" configVersion="ee7802e4f247ee41afd29e793ce69b3800000000"/>
 		<Metadata name="CommonPicture.ABC_АнализПродаж" id="c4c6a49c-3a80-45c5-8858-2a4c1d279187" configVersion="24412cf40c6e564890ea7c73ef7c56ba00000000"/>
 		<Metadata name="CommonPicture.ABC_АнализПродаж.Picture" id="c4c6a49c-3a80-45c5-8858-2a4c1d279187.0" configVersion="3ae6ae5d17230c46b915c3c78f62bd6e00000000"/>
 		<Metadata name="CommonPicture.MSOutlook" id="d46e7213-52af-48fe-83f9-3506367b08d4" configVersion="4abd8eae70b4544b830c16b58b7e1a5000000000"/>
@@ -1075,8 +1075,8 @@
 		<Metadata name="DataProcessor.ТО_Datecs_OPOS.Template.Драйвер2.Template" id="006b5a27-353e-4ef8-b84b-f6b9704837bd.0" configVersion="1bb1523096da5e4f834d1296423319c300000000"/>
 		<Metadata name="DataProcessor.ТО_Datecs_OPOS.Template.Драйвер3" id="594417f9-afce-4b38-b48b-b2de6b3bb3f6" configVersion="11e412f35a43604589292f1001439de800000000"/>
 		<Metadata name="DataProcessor.ТО_Datecs_OPOS.Template.Драйвер3.Template" id="594417f9-afce-4b38-b48b-b2de6b3bb3f6.0" configVersion="344b6e8424c56a47aca6f6932fa6dad000000000"/>
-		<Metadata name="DataProcessor.ТО_IKC_E260T" id="b61ddf24-0159-4bce-a6ef-d895fd6c7925" configVersion="c36769b91ed4724eaab76320f3e1493900000000"/>
-		<Metadata name="DataProcessor.ТО_IKC_E260T.ObjectModule" id="b61ddf24-0159-4bce-a6ef-d895fd6c7925.0" configVersion="0e0fde72d72bbf47b3df73f12c5ff1b100000000"/>
+		<Metadata name="DataProcessor.ТО_IKC_E260T" id="b61ddf24-0159-4bce-a6ef-d895fd6c7925" configVersion="08e8db177a4e3647a9acf2ec2c7471fb00000000"/>
+		<Metadata name="DataProcessor.ТО_IKC_E260T.ObjectModule" id="b61ddf24-0159-4bce-a6ef-d895fd6c7925.0" configVersion="5080d4c800c80647b89398e9db5c888400000000"/>
 		<Metadata name="DataProcessor.ТО_IKC_E260T.Template.Драйвер" id="48920f8f-1ce8-4028-930e-1f57d1b9e769" configVersion="a8a4defc977bd542931ef43086341a1b00000000"/>
 		<Metadata name="DataProcessor.ТО_IKC_E260T.Template.Драйвер.Template" id="48920f8f-1ce8-4028-930e-1f57d1b9e769.0" configVersion="cc4e6b7f70a03843a2904c2ccff7702300000000"/>
 		<Metadata name="DataProcessor.ТО_IKC_E810T" id="e4feacde-a741-4d46-b0f8-68e8824c7f7f" configVersion="6c6912958f9ab145b0260dfa89620cde00000000"/>
@@ -1093,8 +1093,8 @@
 		<Metadata name="DataProcessor.ТО_MINI_FP82.Template.Драйвер_2_0.Template" id="bfca2006-9c82-4bf2-ba13-d57f17e8fafd.0" configVersion="6e6acc5fb0815646be595a0f1d37c24e00000000"/>
 		<Metadata name="DataProcessor.ТО_MINI_FP82.Template.Драйвер_2_1" id="56854ee5-55eb-465c-af60-10e35fafa986" configVersion="5904e1db81c3424aa421ed98e58a085b00000000"/>
 		<Metadata name="DataProcessor.ТО_MINI_FP82.Template.Драйвер_2_1.Template" id="56854ee5-55eb-465c-af60-10e35fafa986.0" configVersion="b31844ce5ef8f44da168eb3d86b9751300000000"/>
-		<Metadata name="DataProcessor.ТО_POSтерминал_ОщадБанк" id="2d1a9019-8d0e-4eca-a657-1cae05007de5" configVersion="b419f2427ace70478a64c325df6e54e600000000"/>
-		<Metadata name="DataProcessor.ТО_POSтерминал_ОщадБанк.ObjectModule" id="2d1a9019-8d0e-4eca-a657-1cae05007de5.0" configVersion="db1f9f265a8e1643a62b3a7115cda66b00000000"/>
+		<Metadata name="DataProcessor.ТО_POSтерминал_ОщадБанк" id="2d1a9019-8d0e-4eca-a657-1cae05007de5" configVersion="7be4bab38eb7ae45879220add7cd2edd00000000"/>
+		<Metadata name="DataProcessor.ТО_POSтерминал_ОщадБанк.ObjectModule" id="2d1a9019-8d0e-4eca-a657-1cae05007de5.0" configVersion="23bcfba4c211a048861092b699315bdb00000000"/>
 		<Metadata name="DataProcessor.ТО_POSтерминал_ПУМБ" id="cb1c2730-ca2a-4f7b-9b00-df1953bd6d20" configVersion="31a7d923975c3c439d75398b33c1716e00000000"/>
 		<Metadata name="DataProcessor.ТО_POSтерминал_ПУМБ.ObjectModule" id="cb1c2730-ca2a-4f7b-9b00-df1953bd6d20.0" configVersion="daa637c227289d4a87e7578fea91888200000000"/>
 		<Metadata name="DataProcessor.ТО_POSтерминал_ПУМБ.Template.Драйвер1" id="3c348607-3490-4a41-8e3b-877b882f56ae" configVersion="b0d7ff777fc26c4c82411db9fa93b29c00000000"/>
@@ -1105,8 +1105,8 @@
 		<Metadata name="DataProcessor.ТО_POSтерминал_ПУМБ.Template.Драйвер3.Template" id="9c81633c-81d6-4aec-9574-ec6e7bba4f5a.0" configVersion="d668d77246cfc2479a414faccb1f555a00000000"/>
 		<Metadata name="DataProcessor.ТО_POSтерминал_ПУМБ.Template.Драйвер4" id="b5454876-12ec-40f0-96e2-b7adbec667c0" configVersion="4216e6fa0c1c2b4eb186872f00e4cbd500000000"/>
 		<Metadata name="DataProcessor.ТО_POSтерминал_ПУМБ.Template.Драйвер4.Template" id="b5454876-12ec-40f0-96e2-b7adbec667c0.0" configVersion="9d8604a222049f409ccfe97ca92919fa00000000"/>
-		<Metadata name="DataProcessor.ТО_POSтерминал_ПриватБанк" id="37fc3f0b-a7ec-42ca-a277-3e397ded98fd" configVersion="b605867a09168545a9d9db8dd0ef427300000000"/>
-		<Metadata name="DataProcessor.ТО_POSтерминал_ПриватБанк.ObjectModule" id="37fc3f0b-a7ec-42ca-a277-3e397ded98fd.0" configVersion="087c276d532c6042892eea71c87d1ca300000000"/>
+		<Metadata name="DataProcessor.ТО_POSтерминал_ПриватБанк" id="37fc3f0b-a7ec-42ca-a277-3e397ded98fd" configVersion="70093cabeb6c5e498e00730169fffaa300000000"/>
+		<Metadata name="DataProcessor.ТО_POSтерминал_ПриватБанк.ObjectModule" id="37fc3f0b-a7ec-42ca-a277-3e397ded98fd.0" configVersion="f7b5673e1f075c4d8a4125f4cffbd8d600000000"/>
 		<Metadata name="DataProcessor.ТО_POSтерминал_ПриватБанк.Template.Драйвер1" id="d9201b55-bbf0-480c-94a3-60801b37e264" configVersion="62ab88880eacff46b60239cfd18ec7e600000000"/>
 		<Metadata name="DataProcessor.ТО_POSтерминал_ПриватБанк.Template.Драйвер1.Template" id="d9201b55-bbf0-480c-94a3-60801b37e264.0" configVersion="bea368c1a1ebdc4ab3808261eae2843200000000"/>
 		<Metadata name="DataProcessor.ТО_POSтерминал_ПриватБанк.Template.Драйвер2" id="fd5fc444-1ed3-4a85-be8f-f7fe8ce20275" configVersion="961422bb5c330e47bab5c4cc9d9bd8e000000000"/>

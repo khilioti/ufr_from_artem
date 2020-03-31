@@ -64,11 +64,15 @@
 			</EnumValue>
 			<EnumValue uuid="9cd93e33-bb04-4728-8dbc-c8ad2e2f45cc">
 				<Properties>
-					<Name>Fishka</Name>
+					<Name>FISHKA</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Fishka</v8:content>
+							<v8:content>FISHKA</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>uk</v8:lang>
+							<v8:content>FISHKA</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

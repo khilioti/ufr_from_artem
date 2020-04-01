@@ -1105,8 +1105,8 @@
 		<Metadata name="DataProcessor.ТО_POSтерминал_ПУМБ.Template.Драйвер3.Template" id="9c81633c-81d6-4aec-9574-ec6e7bba4f5a.0" configVersion="d668d77246cfc2479a414faccb1f555a00000000"/>
 		<Metadata name="DataProcessor.ТО_POSтерминал_ПУМБ.Template.Драйвер4" id="b5454876-12ec-40f0-96e2-b7adbec667c0" configVersion="4216e6fa0c1c2b4eb186872f00e4cbd500000000"/>
 		<Metadata name="DataProcessor.ТО_POSтерминал_ПУМБ.Template.Драйвер4.Template" id="b5454876-12ec-40f0-96e2-b7adbec667c0.0" configVersion="9d8604a222049f409ccfe97ca92919fa00000000"/>
-		<Metadata name="DataProcessor.ТО_POSтерминал_ПриватБанк" id="37fc3f0b-a7ec-42ca-a277-3e397ded98fd" configVersion="70093cabeb6c5e498e00730169fffaa300000000"/>
-		<Metadata name="DataProcessor.ТО_POSтерминал_ПриватБанк.ObjectModule" id="37fc3f0b-a7ec-42ca-a277-3e397ded98fd.0" configVersion="f7b5673e1f075c4d8a4125f4cffbd8d600000000"/>
+		<Metadata name="DataProcessor.ТО_POSтерминал_ПриватБанк" id="37fc3f0b-a7ec-42ca-a277-3e397ded98fd" configVersion="82e0398f000cfc47af97a51e63c9c92200000000"/>
+		<Metadata name="DataProcessor.ТО_POSтерминал_ПриватБанк.ObjectModule" id="37fc3f0b-a7ec-42ca-a277-3e397ded98fd.0" configVersion="b11cdd1af4e0f048992b29ba9f3d94eb00000000"/>
 		<Metadata name="DataProcessor.ТО_POSтерминал_ПриватБанк.Template.Драйвер1" id="d9201b55-bbf0-480c-94a3-60801b37e264" configVersion="62ab88880eacff46b60239cfd18ec7e600000000"/>
 		<Metadata name="DataProcessor.ТО_POSтерминал_ПриватБанк.Template.Драйвер1.Template" id="d9201b55-bbf0-480c-94a3-60801b37e264.0" configVersion="bea368c1a1ebdc4ab3808261eae2843200000000"/>
 		<Metadata name="DataProcessor.ТО_POSтерминал_ПриватБанк.Template.Драйвер2" id="fd5fc444-1ed3-4a85-be8f-f7fe8ce20275" configVersion="961422bb5c330e47bab5c4cc9d9bd8e000000000"/>

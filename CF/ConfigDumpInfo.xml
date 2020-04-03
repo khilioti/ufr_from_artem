@@ -128,8 +128,8 @@
 		<Metadata name="CommonModule.ТО_Сканер.Module" id="d4501e65-bfdf-4b74-8ba1-d34927f598d4.0" configVersion="78ab8e83bb0c864295742c4941e78f6b00000000"/>
 		<Metadata name="CommonModule.ТО_Терминал" id="a7c0d07c-6816-472e-8756-92a5ddf2bb4a" configVersion="a06ad4bd6dfd2f498c529ab13d2a0c4900000000"/>
 		<Metadata name="CommonModule.ТО_Терминал.Module" id="a7c0d07c-6816-472e-8756-92a5ddf2bb4a.0" configVersion="93b8ea7ff10d564a8ba752390a879d7e00000000"/>
-		<Metadata name="CommonModule.ТО_ФР" id="f429c3f2-3383-4181-8a52-332beaeac322" configVersion="db62610b0d3f5a4aa6a89e0de062ac5c00000000"/>
-		<Metadata name="CommonModule.ТО_ФР.Module" id="f429c3f2-3383-4181-8a52-332beaeac322.0" configVersion="87678031487e434da1671e0c4ba90d5c00000000"/>
+		<Metadata name="CommonModule.ТО_ФР" id="f429c3f2-3383-4181-8a52-332beaeac322" configVersion="f0e03ecfea158444b32273f09031657700000000"/>
+		<Metadata name="CommonModule.ТО_ФР.Module" id="f429c3f2-3383-4181-8a52-332beaeac322.0" configVersion="393059895e449c4880a9e7b28adb69c800000000"/>
 		<Metadata name="CommonPicture.ABC_АнализПродаж" id="c4c6a49c-3a80-45c5-8858-2a4c1d279187" configVersion="24412cf40c6e564890ea7c73ef7c56ba00000000"/>
 		<Metadata name="CommonPicture.ABC_АнализПродаж.Picture" id="c4c6a49c-3a80-45c5-8858-2a4c1d279187.0" configVersion="3ae6ae5d17230c46b915c3c78f62bd6e00000000"/>
 		<Metadata name="CommonPicture.MSOutlook" id="d46e7213-52af-48fe-83f9-3506367b08d4" configVersion="4abd8eae70b4544b830c16b58b7e1a5000000000"/>

@@ -1238,8 +1238,8 @@
 			<Metadata name="Document.ЧекККМ.Attribute.СуммаПоЧекуККМ" id="fdeb3c1c-aaca-4f18-94ce-bbd6449e1157"/>
 			<Metadata name="Document.ЧекККМ.TabularSection.ТЧ_ДвиженияПС" id="fe45adbd-fa36-4ba9-9de2-2d79d026c577"/>
 		</Metadata>
-		<Metadata name="Document.ЧекККМ.Form.ФормаДокумента" id="0efd819e-7b78-4041-88ac-3f932f564c32" configVersion="847376a116dfdf4089a13c6f9b0ab3ab00000000"/>
-		<Metadata name="Document.ЧекККМ.Form.ФормаДокумента.Form" id="0efd819e-7b78-4041-88ac-3f932f564c32.0" configVersion="17456738c32f564caf41a704f6a4d53900000000"/>
+		<Metadata name="Document.ЧекККМ.Form.ФормаДокумента" id="0efd819e-7b78-4041-88ac-3f932f564c32" configVersion="834491c8e770ad4aa0a1adae2540318400000000"/>
+		<Metadata name="Document.ЧекККМ.Form.ФормаДокумента.Form" id="0efd819e-7b78-4041-88ac-3f932f564c32.0" configVersion="f93cf6f033f9cd4b834b4ad2666484b800000000"/>
 		<Metadata name="Document.ЧекККМ.Form.ФормаСписка" id="17728ae4-81fb-477f-ab08-8c9169144583" configVersion="c5e29b4fc3f20a47b19fb9a6dcd4756a00000000"/>
 		<Metadata name="Document.ЧекККМ.Form.ФормаСписка.Form" id="17728ae4-81fb-477f-ab08-8c9169144583.0" configVersion="bc2250252b326c408e6af958e5dee1e200000000"/>
 		<Metadata name="Document.ЧекККМ.ObjectModule" id="f6363eb5-b03e-4051-b1aa-b62f06ef4575.0" configVersion="4422062a72241f4287c6656eb41b07a500000000"/>

@@ -120,8 +120,8 @@
 		<Metadata name="CommonModule.РаботаСПС.Module" id="02639db9-40bf-4871-8e01-5956fb5fa1fe.0" configVersion="e61007b72a32d343a54e30742d94fccc00000000"/>
 		<Metadata name="CommonModule.РаботаСПользователями" id="625445c7-a71c-4d30-978a-0ad3c4c79be8" configVersion="18ca5739ee96ec4fa394991ba19f379300000000"/>
 		<Metadata name="CommonModule.РаботаСПользователями.Module" id="625445c7-a71c-4d30-978a-0ad3c4c79be8.0" configVersion="77325ac0a6db0248a534fd217e87f82200000000"/>
-		<Metadata name="CommonModule.РаботаСЧеком" id="12988af4-8aa3-4dea-a8a3-1c66134dba62" configVersion="201d75c31bcac441b44212cf7c02494e00000000"/>
-		<Metadata name="CommonModule.РаботаСЧеком.Module" id="12988af4-8aa3-4dea-a8a3-1c66134dba62.0" configVersion="d71099d0cd88664499dda4f3d1019b6200000000"/>
+		<Metadata name="CommonModule.РаботаСЧеком" id="12988af4-8aa3-4dea-a8a3-1c66134dba62" configVersion="00527f5dad459f4992bc3d19ab7c766400000000"/>
+		<Metadata name="CommonModule.РаботаСЧеком.Module" id="12988af4-8aa3-4dea-a8a3-1c66134dba62.0" configVersion="77a393ce07b0ec4686391e5589a73b3a00000000"/>
 		<Metadata name="CommonModule.РабочееМестоКассира" id="58dc1f49-3f66-483f-82d1-b28875c3911f" configVersion="cb319eebfdf6a44090a9d298046d298900000000"/>
 		<Metadata name="CommonModule.РабочееМестоКассира.Module" id="58dc1f49-3f66-483f-82d1-b28875c3911f.0" configVersion="b15d8e2685a2404eaec9f58c629ecd8b00000000"/>
 		<Metadata name="CommonModule.ТО_Сканер" id="d4501e65-bfdf-4b74-8ba1-d34927f598d4" configVersion="3337d9217994c046a13fa22883cf521100000000"/>

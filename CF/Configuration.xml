@@ -712,6 +712,7 @@
 			<Catalog>КассыККМ</Catalog>
 			<Catalog>Подразделения</Catalog>
 			<Catalog>Пользователи</Catalog>
+			<Catalog>ТестовыйСправочникДляГИТ</Catalog>
 			<Document>ЧекККМ</Document>
 			<Enum>FISHKA_СостояниеЧекаККМ</Enum>
 			<Enum>АкционнаяСистема</Enum>

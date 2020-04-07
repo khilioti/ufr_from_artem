@@ -42,6 +42,8 @@
 		</Metadata>
 		<Metadata name="Catalog.Пользователи.Help" id="5ea6a4d5-a340-4148-a140-08284a74b14f.1" configVersion="ffd3feec2db53142b55c187e661cc9ed00000000"/>
 		<Metadata name="Catalog.Пользователи.ObjectModule" id="5ea6a4d5-a340-4148-a140-08284a74b14f.0" configVersion="13dcdc9ff5e47e478973044b9c939e1600000000"/>
+		<Metadata name="Catalog.Тестовый2СправочникДляГита" id="b8d0dbbb-4a30-4a81-864f-7f2a236cf9ff" configVersion="817f5dce65cbef418b73b131bf142b0c00000000"/>
+		<Metadata name="Catalog.Тестовый2СправочникДляГита.Predefined" id="b8d0dbbb-4a30-4a81-864f-7f2a236cf9ff.1c" configVersion="b9a33fedcf784543b91e66fd243ab12600000000"/>
 		<Metadata name="Catalog.ТестовыйСправочникДляГИТ" id="78de93e8-f71e-4799-baf6-1f1d6f509db1" configVersion="3e1a7499e4dfd34d94910d7ccb82fa8400000000"/>
 		<Metadata name="Catalog.ТестовыйСправочникДляГИТ.Predefined" id="78de93e8-f71e-4799-baf6-1f1d6f509db1.1c" configVersion="7cd693bd6a547349b1ae8b0a7ae3df8400000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.ТипыШтрихкодов" id="0f26e117-1f0c-4371-819c-2c41262c7ab3" configVersion="8b6c1be0a2eff549995652ae08e2a75b00000000"/>
@@ -790,7 +792,7 @@
 		<Metadata name="CommonTemplate.Taskkill_shablon.Template" id="6e935257-8a35-4364-a6ec-b7762a77fdad.0" configVersion="b0f555fa88de874ea7011e588ee0445c00000000"/>
 		<Metadata name="CommonTemplate.МакетSalelistДБФ" id="5d602157-2c36-47a7-a8d9-9b462ea76d45" configVersion="6b3b145abb9c18479c4aa2e1593f134300000000"/>
 		<Metadata name="CommonTemplate.МакетSalelistДБФ.Template" id="5d602157-2c36-47a7-a8d9-9b462ea76d45.0" configVersion="e4eec5c0920e7a4896e73ff4c4c2a43100000000"/>
-		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины" id="1e4190e9-76c2-456e-a607-4d817110ffd9" configVersion="d19bc48517bfa14f8c898a330a84af6b00000000"/>
+		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины" id="1e4190e9-76c2-456e-a607-4d817110ffd9" configVersion="7b20b42fd3c5ac44800383e377d5926b00000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.ExternalConnectionModule" id="6b021b70-482d-4baf-b590-b86b68d4730e.5" configVersion="0ab731949121cb4f8fe15c8577faa5eb00000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.Help" id="6b021b70-482d-4baf-b590-b86b68d4730e.3" configVersion="89aa922f07eca946b173c882579a813c00000000"/>
 		<Metadata name="Configuration.УправлениеФискальнымиРегистраторамиДляУкраины.Logo" id="6b021b70-482d-4baf-b590-b86b68d4730e.1" configVersion="c5b69c58c0ca304f84aaf779e32491b900000000"/>

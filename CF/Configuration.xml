@@ -713,6 +713,7 @@
 			<Catalog>Подразделения</Catalog>
 			<Catalog>Пользователи</Catalog>
 			<Catalog>ТестовыйСправочникДляГИТ</Catalog>
+			<Catalog>Тестовый2СправочникДляГита</Catalog>
 			<Document>ЧекККМ</Document>
 			<Enum>FISHKA_СостояниеЧекаККМ</Enum>
 			<Enum>АкционнаяСистема</Enum>
